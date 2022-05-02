@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smartboi2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scratch Down Axel0000" x="0" y="0" width="278" height="759" frameX="0" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0001" x="0" y="0" width="278" height="759" frameX="0" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0002" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0003" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0004" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0005" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0006" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0007" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0008" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0009" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0010" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0011" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0012" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down Axel0013" x="288" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0000" x="574" y="0" width="278" height="759" frameX="0" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0001" x="574" y="0" width="278" height="759" frameX="0" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0002" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0003" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0004" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0005" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0006" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0007" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0008" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0009" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0010" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0011" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0012" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Down alt Axel0013" x="862" y="0" width="276" height="759" frameX="-3" frameY="0" frameWidth="279" frameHeight="759"/>
+	<SubTexture name="Scratch Idle Axel0000" x="1148" y="0" width="278" height="777" frameX="0" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0001" x="1148" y="0" width="278" height="777" frameX="0" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0002" x="1436" y="0" width="276" height="777" frameX="-3" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0003" x="1436" y="0" width="276" height="777" frameX="-3" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0004" x="1722" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0005" x="1722" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0006" x="2007" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0007" x="2007" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0008" x="2292" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0009" x="2292" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0010" x="2577" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0011" x="2577" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0012" x="2577" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Idle Axel0013" x="2577" y="0" width="275" height="777" frameX="-4" frameY="0" frameWidth="279" frameHeight="777"/>
+	<SubTexture name="Scratch Left Axel0000" x="2862" y="0" width="325" height="780" frameX="0" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0001" x="2862" y="0" width="325" height="780" frameX="0" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0002" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0003" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0004" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0005" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0006" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0007" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0008" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0009" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0010" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0011" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0012" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left Axel0013" x="3197" y="0" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0000" x="3513" y="0" width="325" height="780" frameX="0" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0001" x="3513" y="0" width="325" height="780" frameX="0" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0002" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0003" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0004" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0005" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0006" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0007" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0008" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0009" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0010" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0011" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0012" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Left alt Axel0013" x="0" y="790" width="306" height="780" frameX="-33" frameY="0" frameWidth="339" frameHeight="780"/>
+	<SubTexture name="Scratch Right Axel0000" x="316" y="790" width="396" height="781" frameX="-6" frameY="0" frameWidth="407" frameHeight="781"/>
+	<SubTexture name="Scratch Right Axel0001" x="316" y="790" width="396" height="781" frameX="-6" frameY="0" frameWidth="407" frameHeight="781"/>
+	<SubTexture name="Scratch Right Axel0002" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0003" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0004" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0005" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0006" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0007" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0008" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0009" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0010" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0011" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0012" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right Axel0013" x="722" y="790" width="407" height="781"/>
+	<SubTexture name="Scratch Right alt Axel0000" x="1139" y="790" width="294" height="781" frameX="-6" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0001" x="1139" y="790" width="294" height="781" frameX="-6" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0002" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0003" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0004" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0005" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0006" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0007" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0008" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0009" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0010" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0011" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0012" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Right alt Axel0013" x="1443" y="790" width="274" height="781" frameX="0" frameY="0" frameWidth="300" frameHeight="781"/>
+	<SubTexture name="Scratch Up Axel0000" x="1727" y="790" width="295" height="789" frameX="-11" frameY="0" frameWidth="316" frameHeight="789"/>
+	<SubTexture name="Scratch Up Axel0001" x="1727" y="790" width="295" height="789" frameX="-11" frameY="0" frameWidth="316" frameHeight="789"/>
+	<SubTexture name="Scratch Up Axel0002" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0003" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0004" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0005" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0006" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0007" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0008" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0009" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0010" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0011" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0012" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up Axel0013" x="2032" y="790" width="316" height="789"/>
+	<SubTexture name="Scratch Up alt Axel0000" x="2358" y="790" width="272" height="797" frameX="-11" frameY="0" frameWidth="283" frameHeight="797"/>
+	<SubTexture name="Scratch Up alt Axel0001" x="2358" y="790" width="272" height="797" frameX="-11" frameY="0" frameWidth="283" frameHeight="797"/>
+	<SubTexture name="Scratch Up alt Axel0002" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0003" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0004" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0005" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0006" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0007" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0008" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0009" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0010" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0011" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0012" x="2640" y="790" width="283" height="797"/>
+	<SubTexture name="Scratch Up alt Axel0013" x="2640" y="790" width="283" height="797"/>
+</TextureAtlas>

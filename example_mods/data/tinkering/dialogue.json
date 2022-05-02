@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That was fun!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It was, wasn't it?"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You did a really good job on this! It works really well."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks!"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we go again? Pleeease?"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking2",
+			"text": "Only if Aoki is okay with it."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah, I'm fine."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That settles it, Axel, another one, please."
+		}
+	]
+}

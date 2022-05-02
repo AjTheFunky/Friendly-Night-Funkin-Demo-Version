@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, we're here! So... why did you invite us here again?"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, you told me how Lexi likes singing."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yep, I do!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So..."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I made something special!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Neat! So what is it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He lifts a blue tarp from atop the invention."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It reveals a big speaker."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "WOAAAAAAAHHHHHH! A huge speaker!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Woah, awesome!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Thanks!"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.015,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Can we try it now? I can't wait!"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Can we sing together? Pretty please with strawberry shortcake on top?"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "Sure, but only one... okay?"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Okay!!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay... Axel?"
+		},
+		{
+			"sound": "axeltext",
+			"speed": 0.05,
+			"portrait": "axel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, Scratch?"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "HIT IT!"
+		}
+	]
+}

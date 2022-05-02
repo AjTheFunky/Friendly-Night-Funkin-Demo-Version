@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm actually having quite a lot of fun!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking2",
+			"text": "I should get back to my projects soon, though..."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "How about one more, then you can take the speaker home?"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sounds okay to me!"
+		},
+		{
+			"sound": "axeltext",
+			"speed": 0.05,
+			"portrait": "axel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Scratch, I've been meaning to tell you, but you were busy with the guests."
+		},
+		{
+			"sound": "axeltext",
+			"speed": 0.05,
+			"portrait": "axel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have a voicemail from your girlfriend."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking",
+			"text": "I can look at it after, unless it's urgent?"
+		},
+		{
+			"sound": "axeltext",
+			"speed": 0.05,
+			"portrait": "axel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I haven't scanned it."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking2",
+			"text": "Huh...?"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nevermind, come join in!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A hatch opens in one of the counters, and a small robot pops out."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking3",
+			"text": "Up you go, buddy."
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Now, let's end it with a bang!"
+		}
+	]
+}

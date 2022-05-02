@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lexi.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Excited0000" x="0" y="0" width="286" height="371" frameX="-1" frameY="0" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0001" x="0" y="0" width="286" height="371" frameX="-1" frameY="0" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0002" x="296" y="0" width="294" height="362" frameX="0" frameY="-9" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0003" x="296" y="0" width="294" height="362" frameX="0" frameY="-9" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0004" x="600" y="0" width="279" height="358" frameX="-1" frameY="-13" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0005" x="600" y="0" width="279" height="358" frameX="-1" frameY="-13" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0006" x="889" y="0" width="274" height="357" frameX="-1" frameY="-14" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0007" x="889" y="0" width="274" height="357" frameX="-1" frameY="-14" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0008" x="1173" y="0" width="273" height="357" frameX="-1" frameY="-14" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0009" x="1173" y="0" width="273" height="357" frameX="-1" frameY="-14" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0010" x="1456" y="0" width="277" height="364" frameX="-1" frameY="-7" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0011" x="1456" y="0" width="277" height="364" frameX="-1" frameY="-7" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0012" x="1743" y="0" width="281" height="371" frameX="-1" frameY="0" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Excited0013" x="1743" y="0" width="281" height="371" frameX="-1" frameY="0" frameWidth="294" frameHeight="371"/>
+	<SubTexture name="Happy0000" x="0" y="381" width="305" height="367"/>
+	<SubTexture name="Happy0001" x="0" y="381" width="305" height="367"/>
+	<SubTexture name="Happy0002" x="315" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Happy0003" x="315" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Happy0004" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Happy0005" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="HappyIdle0000" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0000" x="908" y="381" width="305" height="367"/>
+	<SubTexture name="Sad0001" x="908" y="381" width="305" height="367"/>
+	<SubTexture name="Sad0002" x="1223" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0003" x="1223" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0004" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0005" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="SadIdle0000" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0000" x="0" y="758" width="305" height="367"/>
+	<SubTexture name="Talk0001" x="0" y="758" width="305" height="367"/>
+	<SubTexture name="Talk0002" x="315" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0003" x="315" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0004" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0005" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="TalkIdle0000" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Huh0000" x="908" y="758" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0001" x="908" y="758" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0002" x="1205" y="758" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0003" x="1205" y="758" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0004" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0005" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="HuhIdle0000" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+</TextureAtlas>

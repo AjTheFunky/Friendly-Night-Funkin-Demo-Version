@@ -1,0 +1,89 @@
+{
+	"position": [
+		90,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Scratch",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Talk0",
+			"idle_name": "TalkIdle0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Happy0",
+			"idle_name": "HappyIdle0"
+		},
+		{
+			"loop_offsets": [
+				-16,
+				84
+			],
+			"anim": "talk2",
+			"idle_offsets": [
+				-16,
+				84
+			],
+			"loop_name": "Talk20",
+			"idle_name": "Talk2Idle0"
+		},
+		{
+			"loop_offsets": [
+				22,
+				-8
+			],
+			"anim": "thinking",
+			"idle_offsets": [
+				22,
+				-8
+			],
+			"loop_name": "Thinking0",
+			"idle_name": "ThinkingIdle0"
+		},
+		{
+			"loop_offsets": [
+				22,
+				-8
+			],
+			"anim": "thinking2",
+			"idle_offsets": [
+				22,
+				-8
+			],
+			"loop_name": "Thinking20",
+			"idle_name": "Thinking2Idle0"
+		},
+		{
+			"loop_offsets": [
+				7,
+				90
+			],
+			"anim": "thinking3",
+			"idle_offsets": [
+				7,
+				90
+			],
+			"loop_name": "Thinking30",
+			"idle_name": "Thinking3Idle0"
+		}
+	]
+}

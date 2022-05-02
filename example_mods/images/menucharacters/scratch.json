@@ -1,0 +1,11 @@
+{
+	"idle_anim": "ScratchMenu",
+	"image": "Scratch",
+	"position": [
+		60,
+		60
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

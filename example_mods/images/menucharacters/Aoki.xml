@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aoki.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AokiMenu0000" x="0" y="0" width="529" height="450" frameX="-3" frameY="-23" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0001" x="539" y="0" width="532" height="450" frameX="0" frameY="-23" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0002" x="1081" y="0" width="527" height="465" frameX="0" frameY="-8" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0003" x="1618" y="0" width="524" height="465" frameX="-3" frameY="-8" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0004" x="2152" y="0" width="521" height="471" frameX="-3" frameY="-2" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0005" x="2152" y="0" width="521" height="471" frameX="-3" frameY="-2" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0006" x="2683" y="0" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0007" x="2683" y="0" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0008" x="3213" y="0" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0009" x="3213" y="0" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0010" x="0" y="483" width="528" height="450" frameX="-3" frameY="-23" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0011" x="538" y="483" width="531" height="450" frameX="0" frameY="-23" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0012" x="1079" y="483" width="526" height="466" frameX="0" frameY="-7" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0013" x="1615" y="483" width="523" height="466" frameX="-3" frameY="-7" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0014" x="2148" y="483" width="519" height="472" frameX="-3" frameY="-1" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0015" x="2148" y="483" width="519" height="472" frameX="-3" frameY="-1" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0016" x="2677" y="483" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0017" x="2677" y="483" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0018" x="3207" y="483" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+	<SubTexture name="AokiMenu0019" x="3207" y="483" width="520" height="473" frameX="-3" frameY="0" frameWidth="532" frameHeight="473"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Phone.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phone0000" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0001" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0002" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0003" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0004" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0005" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0006" x="0" y="0" width="295" height="296"/>
+	<SubTexture name="phone0007" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0008" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0009" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0010" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0011" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0012" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+	<SubTexture name="phone0013" x="305" y="0" width="257" height="296" frameX="-19" frameY="0" frameWidth="295" frameHeight="296"/>
+</TextureAtlas>

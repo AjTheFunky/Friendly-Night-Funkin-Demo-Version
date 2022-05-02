@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "aidenidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "aidenleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "aidenright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "aidenup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "aidendown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HeDiedFirst",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "ghostbros",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		100,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

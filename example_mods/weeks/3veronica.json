@@ -1,0 +1,44 @@
+{
+	"storyName": "Rhythmic Restaurant",
+	"hideFreeplay": false,
+	"weekBackground": "restaurant",
+	"weekBefore": "2grape",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"weekCharacters": [
+		"veronica",
+		"lexi",
+		"leroy"
+	],
+	"songs": [
+		[
+			"Lunch",
+			"veronica",
+			[
+				186,
+				153,
+				255
+			]
+		],
+		[
+			"Party",
+			"veronica",
+			[
+				186,
+				153,
+				255
+			]
+		],
+		[
+			"Veronica",
+			"veronica",
+			[
+				186,
+				153,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week3"
+}

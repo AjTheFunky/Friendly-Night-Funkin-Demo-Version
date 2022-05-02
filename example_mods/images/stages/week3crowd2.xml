@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="week3crowd2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crowd20000" x="0" y="0" width="1247" height="496" frameX="0" frameY="-5" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20001" x="0" y="0" width="1247" height="496" frameX="0" frameY="-5" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20002" x="1257" y="0" width="1258" height="497" frameX="-9" frameY="-4" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20003" x="1257" y="0" width="1258" height="497" frameX="-9" frameY="-4" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20004" x="2525" y="0" width="1251" height="500" frameX="-12" frameY="-1" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20005" x="2525" y="0" width="1251" height="500" frameX="-12" frameY="-1" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20006" x="0" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20007" x="0" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20008" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20009" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20010" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20011" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20012" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+	<SubTexture name="crowd20013" x="1263" y="510" width="1253" height="501" frameX="-12" frameY="0" frameWidth="1267" frameHeight="501"/>
+</TextureAtlas>

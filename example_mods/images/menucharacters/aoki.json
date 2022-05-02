@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "LexiMenu",
+	"idle_anim": "AokiMenu",
+	"position": [
+		60,
+		53
+	],
+	"scale": 0.8,
+	"image": "Aoki",
+	"flipX": false
+}

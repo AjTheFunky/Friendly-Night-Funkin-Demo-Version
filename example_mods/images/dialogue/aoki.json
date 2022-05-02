@@ -1,0 +1,50 @@
+{
+	"position": [
+		90,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Aoki",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Talk0",
+			"idle_name": "TalkIdle0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Happy0",
+			"idle_name": "HappyIdle0"
+		},
+		{
+			"loop_name": "Hehe0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HeheIdle0",
+			"anim": "hehe",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

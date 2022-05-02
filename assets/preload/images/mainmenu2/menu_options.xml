@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options white0000" x="0" y="0" width="1032" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0001" x="0" y="0" width="1032" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0002" x="1042" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0003" x="1042" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0004" x="2072" y="0" width="1018" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0005" x="2072" y="0" width="1018" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0006" x="3100" y="0" width="1017" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0007" x="3100" y="0" width="1017" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0008" x="4127" y="0" width="1017" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0009" x="4127" y="0" width="1017" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0010" x="5154" y="0" width="1019" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0011" x="5154" y="0" width="1019" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0012" x="6183" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0013" x="6183" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0014" x="0" y="701" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0015" x="0" y="701" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0016" x="0" y="0" width="1032" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0017" x="0" y="0" width="1032" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0018" x="1042" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0019" x="1042" y="0" width="1020" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0020" x="2072" y="0" width="1018" height="691" frameX="0" frameY="-5" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0021" x="1030" y="701" width="1018" height="694" frameX="0" frameY="-2" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0022" x="2058" y="701" width="1017" height="694" frameX="0" frameY="-2" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0023" x="3085" y="701" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0024" x="4112" y="701" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0025" x="4112" y="701" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0026" x="5139" y="701" width="1019" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0027" x="5139" y="701" width="1019" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0028" x="6168" y="701" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0029" x="6168" y="701" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0030" x="0" y="1407" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0031" x="0" y="1407" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0032" x="1030" y="1407" width="1032" height="696"/>
+	<SubTexture name="options white0033" x="1030" y="1407" width="1032" height="696"/>
+	<SubTexture name="options white0034" x="2072" y="1407" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0035" x="2072" y="1407" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0036" x="3102" y="1407" width="1018" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0037" x="3102" y="1407" width="1018" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0038" x="4130" y="1407" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0039" x="4130" y="1407" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0040" x="5157" y="1407" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0041" x="5157" y="1407" width="1017" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0042" x="6184" y="1407" width="1019" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0043" x="6184" y="1407" width="1019" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0044" x="6168" y="701" width="1020" height="696" frameX="0" frameY="0" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0045" x="0" y="2113" width="1020" height="695" frameX="0" frameY="-1" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0046" x="1030" y="2113" width="1020" height="695" frameX="0" frameY="-1" frameWidth="1032" frameHeight="696"/>
+	<SubTexture name="options white0047" x="2060" y="2113" width="1020" height="692" frameX="0" frameY="-4" frameWidth="1032" frameHeight="696"/>
+</TextureAtlas>

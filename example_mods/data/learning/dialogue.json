@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "*humming*"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "*ringing*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "..."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hi, Mr. Robin!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "...?"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lexi's fine, she's drawing right now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "...."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Okay, see you then!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone",
+			"boxState": "normal",
+			"expression": "phone",
+			"text": "...!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She hangs up."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lexi, your dad's going to be here in a few minutes."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "But..."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I wanted to keep hanging out with you!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "hehe",
+			"text": "We can hang out more next time."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before you go, can we sing?"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Just one song, I promise!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "hehe",
+			"text": "..."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Pleeeease?"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "hehe",
+			"text": "Okay, you win."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'll sing with you."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yaaaay!"
+		}
+	]
+}

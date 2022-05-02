@@ -1,0 +1,11 @@
+{
+	"idle_anim": "LexiMenu",
+	"image": "Lexi",
+	"position": [
+		60,
+		-41
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "LexiMenu"
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "LexiMenu",
+	"idle_anim": "LeroyMenu",
+	"position": [
+		-99,
+		30
+	],
+	"scale": 0.8,
+	"image": "Leroy",
+	"flipX": false
+}

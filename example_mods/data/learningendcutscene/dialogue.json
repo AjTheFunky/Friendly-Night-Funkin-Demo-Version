@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That was fun!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think he's here."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bye, Lexi!"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bye bye!"
+		}
+	]
+}

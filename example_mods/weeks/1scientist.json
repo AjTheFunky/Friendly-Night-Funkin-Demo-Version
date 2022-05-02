@@ -1,0 +1,44 @@
+{
+	"storyName": "Singing with the scientist",
+	"hideFreeplay": false,
+	"weekBackground": "lab",
+	"weekBefore": "0learning",
+	"difficulties": "hard",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"scratch",
+		"lexi",
+		"aoki"
+	],
+	"songs": [
+		[
+			"Beep",
+			"scratch",
+			[
+				255,
+				170,
+				0
+			]
+		],
+		[
+			"Tinkering",
+			"scratch",
+			[
+				255,
+				170,
+				0
+			]
+		],
+		[
+			"Electrify",
+			"scratch",
+			[
+				255,
+				170,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}

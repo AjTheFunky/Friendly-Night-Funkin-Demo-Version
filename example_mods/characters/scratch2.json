@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Scratch Idle Axel"
+		},
+		{
+			"offsets": [
+				42,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Scratch Left Axel"
+		},
+		{
+			"offsets": [
+				0,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Scratch Down Axel"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Scratch Up Axel"
+		},
+		{
+			"offsets": [
+				-8,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Scratch Right Axel"
+		},
+		{
+			"offsets": [
+				41,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Scratch Left alt Axel"
+		},
+		{
+			"offsets": [
+				-1,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Scratch Down alt Axel"
+		},
+		{
+			"offsets": [
+				-4,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Scratch Up alt Axel"
+		},
+		{
+			"offsets": [
+				-9,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Scratch Right alt Axel"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Smartboi2",
+	"position": [
+		10,
+		-20
+	],
+	"healthicon": "scratch2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		24,
+		13
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

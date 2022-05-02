@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "LexiMenu",
+	"idle_anim": "VeronicaMenu",
+	"position": [
+		118,
+		4
+	],
+	"scale": 0.8,
+	"image": "Veronica",
+	"flipX": false
+}

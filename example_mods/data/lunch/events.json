@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 1.4,
+		"stage": "restaurant",
+		"player1": "lexi",
+		"player2": "veronica",
+		"player3": null,
+		"events": [
+			[
+				44878.0487804878,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				113941.382113821,
+				[
+					[
+						"Play Animation",
+						"notice",
+						"Dad"
+					],
+					[
+						"Hey!",
+						"BF",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "leroy",
+		"bpm": 123,
+		"arrowSkin": "arrows/veronica",
+		"needsVoices": true,
+		"song": "Lunch"
+	}
+}

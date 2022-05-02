@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lexi.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LexiMenu0000" x="0" y="0" width="369" height="344" frameX="-59" frameY="-25" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0001" x="0" y="0" width="369" height="344" frameX="-59" frameY="-25" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0002" x="379" y="0" width="369" height="343" frameX="-53" frameY="-26" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0003" x="379" y="0" width="369" height="343" frameX="-53" frameY="-26" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0004" x="758" y="0" width="364" height="349" frameX="-46" frameY="-20" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0005" x="758" y="0" width="364" height="349" frameX="-46" frameY="-20" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0006" x="1132" y="0" width="353" height="358" frameX="-40" frameY="-11" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0007" x="1132" y="0" width="353" height="358" frameX="-40" frameY="-11" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0008" x="1495" y="0" width="338" height="369" frameX="-34" frameY="0" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0009" x="1495" y="0" width="338" height="369" frameX="-34" frameY="0" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0010" x="0" y="379" width="315" height="356" frameX="0" frameY="-13" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0011" x="0" y="379" width="315" height="356" frameX="0" frameY="-13" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0012" x="325" y="379" width="299" height="360" frameX="-9" frameY="-9" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0013" x="325" y="379" width="299" height="360" frameX="-9" frameY="-9" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0014" x="634" y="379" width="310" height="363" frameX="-17" frameY="-6" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0015" x="634" y="379" width="310" height="363" frameX="-17" frameY="-6" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0016" x="954" y="379" width="320" height="366" frameX="-25" frameY="-3" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0017" x="954" y="379" width="320" height="366" frameX="-25" frameY="-3" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0018" x="1495" y="0" width="338" height="369" frameX="-34" frameY="0" frameWidth="428" frameHeight="369"/>
+	<SubTexture name="LexiMenu0019" x="1495" y="0" width="338" height="369" frameX="-34" frameY="0" frameWidth="428" frameHeight="369"/>
+</TextureAtlas>

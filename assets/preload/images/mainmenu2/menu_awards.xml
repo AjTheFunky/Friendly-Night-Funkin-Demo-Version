@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_awards.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awards white0000" x="0" y="0" width="807" height="689" frameX="0" frameY="-38" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0001" x="0" y="0" width="807" height="689" frameX="0" frameY="-38" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0002" x="817" y="0" width="868" height="726" frameX="-7" frameY="0" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0003" x="817" y="0" width="868" height="726" frameX="-7" frameY="0" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0004" x="1695" y="0" width="869" height="700" frameX="-10" frameY="-26" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0005" x="1695" y="0" width="869" height="700" frameX="-10" frameY="-26" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0006" x="2574" y="0" width="801" height="689" frameX="-12" frameY="-37" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0007" x="2574" y="0" width="801" height="689" frameX="-12" frameY="-37" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0008" x="0" y="736" width="794" height="688" frameX="-13" frameY="-38" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0009" x="0" y="736" width="794" height="688" frameX="-13" frameY="-38" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0010" x="804" y="736" width="862" height="726" frameX="-13" frameY="0" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0011" x="804" y="736" width="862" height="726" frameX="-13" frameY="0" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0012" x="1676" y="736" width="866" height="700" frameX="-13" frameY="-26" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0013" x="1676" y="736" width="866" height="700" frameX="-13" frameY="-26" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0014" x="2552" y="736" width="788" height="689" frameX="-25" frameY="-37" frameWidth="879" frameHeight="727"/>
+	<SubTexture name="awards white0015" x="2552" y="736" width="788" height="689" frameX="-25" frameY="-37" frameWidth="879" frameHeight="727"/>
+</TextureAtlas>

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Child.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lexi Death Loop0000" x="0" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0001" x="0" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0002" x="516" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0003" x="516" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0004" x="1032" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0005" x="1032" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0006" x="1548" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0007" x="1548" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0008" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0009" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0010" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0011" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0012" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Death Loop0013" x="2064" y="0" width="506" height="553"/>
+	<SubTexture name="Lexi Die0000" x="2580" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0001" x="3365" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0002" x="4150" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0003" x="4935" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0004" x="5720" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0005" x="6505" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0006" x="7290" y="0" width="775" height="847"/>
+	<SubTexture name="Lexi Die0007" x="0" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0008" x="785" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0009" x="1570" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0010" x="2355" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0011" x="3140" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0012" x="3925" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0013" x="4710" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0014" x="5495" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0015" x="6280" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0016" x="7065" y="857" width="775" height="847"/>
+	<SubTexture name="Lexi Die0017" x="0" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0018" x="785" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0019" x="1570" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0020" x="2355" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0021" x="3140" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0022" x="3925" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0023" x="4710" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0024" x="5495" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0025" x="6280" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0026" x="7065" y="1714" width="775" height="847"/>
+	<SubTexture name="Lexi Die0027" x="0" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0028" x="0" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0029" x="785" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0030" x="785" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0031" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0032" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0033" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0034" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0035" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0036" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0037" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0038" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0039" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0040" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0041" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0042" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0043" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0044" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0045" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0046" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0047" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0048" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0049" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0050" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0051" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0052" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0053" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0054" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0055" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0056" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0057" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0058" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Die0059" x="1570" y="2571" width="775" height="847"/>
+	<SubTexture name="Lexi Down0000" x="2355" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0001" x="2355" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0002" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0003" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0004" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0005" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0006" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0007" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0008" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0009" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0010" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0011" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0012" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0013" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down0014" x="2870" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0000" x="3385" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0001" x="3385" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0002" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0003" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0004" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0005" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0006" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0007" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0008" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0009" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0010" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0011" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0012" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0013" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Down Miss0014" x="3900" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Fear0000" x="4415" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Fear0001" x="4415" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Fear0002" x="4930" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Fear0003" x="4930" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Hey0000" x="5445" y="2571" width="505" height="563"/>
+	<SubTexture name="Lexi Hey0001" x="5445" y="2571" width="505" height="563"/>
+	<SubTexture name="Lexi Hey0002" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0003" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0004" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0005" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0006" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0007" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0008" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0009" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0010" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0011" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0012" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0013" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Hey0014" x="5960" y="2571" width="505" height="552" frameX="0" frameY="-11" frameWidth="505" frameHeight="563"/>
+	<SubTexture name="Lexi Idle0000" x="6475" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0001" x="6475" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0002" x="6990" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0003" x="6990" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0004" x="7505" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0005" x="7505" y="2571" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0006" x="0" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0007" x="0" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0008" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0009" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0010" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0011" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0012" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0013" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0014" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0015" x="1030" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0016" x="1030" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0017" x="1545" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0018" x="1545" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0019" x="2060" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0020" x="2060" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0021" x="2575" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0022" x="2575" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0023" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0024" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0025" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0026" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0027" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0028" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Idle0029" x="515" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0000" x="3090" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0001" x="3090" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0002" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0003" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0004" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0005" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0006" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0007" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0008" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0009" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0010" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0011" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0012" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0013" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left0014" x="3605" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0000" x="4120" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0001" x="4120" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0002" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0003" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0004" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0005" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0006" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0007" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0008" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0009" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0010" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0011" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0012" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0013" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Left Miss0014" x="4635" y="3428" width="505" height="552"/>
+	<SubTexture name="Lexi Retry0000" x="5150" y="3428" width="507" height="553"/>
+	<SubTexture name="Lexi Retry0001" x="5667" y="3428" width="507" height="553"/>
+	<SubTexture name="Lexi Retry0002" x="6184" y="3428" width="507" height="553"/>
+	<SubTexture name="Lexi Retry0003" x="6701" y="3428" width="507" height="553"/>
+	<SubTexture name="Lexi Retry0004" x="7218" y="3428" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0005" x="0" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0006" x="516" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0007" x="1032" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0008" x="1548" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0009" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0010" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0011" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0012" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0013" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Retry0014" x="2064" y="3991" width="506" height="553" frameX="0" frameY="0" frameWidth="507" frameHeight="553"/>
+	<SubTexture name="Lexi Right0000" x="2580" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0001" x="2580" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0002" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0003" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0004" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0005" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0006" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0007" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0008" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0009" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0010" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0011" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0012" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0013" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right0014" x="3095" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0000" x="3610" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0001" x="3610" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0002" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0003" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0004" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0005" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0006" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0007" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0008" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0009" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0010" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0011" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0012" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0013" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Right Miss0014" x="4125" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0000" x="4640" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0001" x="4640" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0002" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0003" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0004" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0005" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0006" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0007" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0008" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0009" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0010" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0011" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0012" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0013" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up0014" x="5155" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0000" x="5670" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0001" x="5670" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0002" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0003" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0004" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0005" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0006" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0007" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0008" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0009" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0010" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0011" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0012" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0013" x="6185" y="3991" width="505" height="552"/>
+	<SubTexture name="Lexi Up Miss0014" x="6185" y="3991" width="505" height="552"/>
+</TextureAtlas>

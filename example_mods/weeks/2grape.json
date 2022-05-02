@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Grape-Boy",
+			"alfonso",
+			[
+				26,
+				21,
+				47
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Week2a",
+	"freeplayColor": [
+		26,
+		21,
+		47
+	],
+	"hideStoryMode": true,
+	"weekBefore": "2ghosts",
+	"startUnlocked": true
+}

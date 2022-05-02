@@ -1,0 +1,44 @@
+{
+	"storyName": "A ditty with the deceased",
+	"hideFreeplay": false,
+	"weekBackground": "roomdark",
+	"weekBefore": "1scientist",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"weekCharacters": [
+		"ghosts",
+		"lexi",
+		"aoki"
+	],
+	"songs": [
+		[
+			"Haunted",
+			"ghostbros",
+			[
+				75,
+				75,
+				75
+			]
+		],
+		[
+			"Purgatory",
+			"ghostbros",
+			[
+				75,
+				75,
+				75
+			]
+		],
+		[
+			"Afterlife",
+			"ghostbros",
+			[
+				75,
+				75,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2"
+}

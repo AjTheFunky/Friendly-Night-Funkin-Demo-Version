@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ghosts.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GhostMenu0000" x="0" y="0" width="471" height="455" frameX="-38" frameY="-31" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0001" x="481" y="0" width="471" height="455" frameX="-38" frameY="-31" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0002" x="962" y="0" width="497" height="481" frameX="-13" frameY="-5" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0003" x="1469" y="0" width="497" height="481" frameX="-13" frameY="-5" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0004" x="1976" y="0" width="483" height="471" frameX="-27" frameY="-15" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0005" x="2469" y="0" width="490" height="471" frameX="-27" frameY="-15" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0006" x="2969" y="0" width="519" height="486" frameX="-1" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0007" x="3498" y="0" width="519" height="486" frameX="-1" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0008" x="0" y="496" width="520" height="486" frameX="0" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0009" x="0" y="496" width="520" height="486" frameX="0" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0010" x="0" y="0" width="471" height="455" frameX="-38" frameY="-31" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0011" x="530" y="496" width="496" height="455" frameX="-38" frameY="-31" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0012" x="1036" y="496" width="530" height="481" frameX="-13" frameY="-5" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0013" x="1576" y="496" width="533" height="481" frameX="-13" frameY="-5" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0014" x="2119" y="496" width="519" height="471" frameX="-27" frameY="-15" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0015" x="2648" y="496" width="501" height="471" frameX="-27" frameY="-15" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0016" x="3159" y="496" width="521" height="486" frameX="-1" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0017" x="0" y="992" width="520" height="486" frameX="-1" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0018" x="0" y="496" width="520" height="486" frameX="0" frameY="0" frameWidth="546" frameHeight="486"/>
+	<SubTexture name="GhostMenu0019" x="0" y="496" width="520" height="486" frameX="0" frameY="0" frameWidth="546" frameHeight="486"/>
+</TextureAtlas>

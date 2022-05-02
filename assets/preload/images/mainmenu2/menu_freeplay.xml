@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_freeplay.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay white0000" x="0" y="0" width="288" height="412" frameX="0" frameY="-17" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0001" x="0" y="0" width="288" height="412" frameX="0" frameY="-17" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0002" x="298" y="0" width="277" height="415" frameX="-3" frameY="-14" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0003" x="298" y="0" width="277" height="415" frameX="-3" frameY="-14" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0004" x="585" y="0" width="277" height="422" frameX="-3" frameY="-7" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0005" x="585" y="0" width="277" height="422" frameX="-3" frameY="-7" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0006" x="872" y="0" width="276" height="425" frameX="-4" frameY="-4" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0007" x="872" y="0" width="276" height="425" frameX="-4" frameY="-4" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0008" x="1158" y="0" width="276" height="427" frameX="-4" frameY="-2" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0009" x="1158" y="0" width="276" height="427" frameX="-4" frameY="-2" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0010" x="1444" y="0" width="276" height="428" frameX="-4" frameY="-1" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0011" x="1444" y="0" width="276" height="428" frameX="-4" frameY="-1" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0012" x="1730" y="0" width="276" height="429" frameX="-4" frameY="0" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0013" x="1730" y="0" width="276" height="429" frameX="-4" frameY="0" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0014" x="0" y="439" width="276" height="429" frameX="-4" frameY="0" frameWidth="288" frameHeight="429"/>
+	<SubTexture name="freeplay white0015" x="0" y="439" width="276" height="429" frameX="-4" frameY="0" frameWidth="288" frameHeight="429"/>
+</TextureAtlas>

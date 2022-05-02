@@ -1,0 +1,26 @@
+{
+	"storyName": "Babysitter's Basics",
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"lexi",
+		"aoki"
+	],
+	"songs": [
+		[
+			"Learning",
+			"aoki",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tutorial"
+}
