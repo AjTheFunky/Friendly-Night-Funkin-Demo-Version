@@ -1,21 +1,19 @@
 function onCreatePost()
-        makeAnimatedLuaSprite('Hunter', 'characters/HesDead', -50, 70);
-        addAnimationByIndices('Hunter','danceLeft','hunteridle', '0, 1, 2, 3, 4, 5, 6, 7, 8, 9', 24)
-        addAnimationByIndices('Hunter','danceRight','hunteridle', '10, 11, 12, 13, 14, 15, 16, 17, 18, 19', 24)
         addLuaSprite('Hunter', true);
 end
-function onBeatHit()
-        objectPlayAnimation('Hunter','danceRight',false)
-        if curBeat % 2 == 0 then --if even beat
-            objectPlayAnimation('Hunter','danceLeft',false)
-        end 
-end
+--function onBeatHit()
+--        objectPlayAnimation('Hunter','danceRight',false)
+--        if curBeat % 2 == 0 then --if even beat
+--            objectPlayAnimation('Hunter','danceLeft',false)
+--        end 
+--end
+
 
 local allowCountdown = false
 
 function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
-	if not allowCountdown and isStoryMode and not seenCutscene then
+	if not allowCountdown and and isStoryMode not seenCutscene then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.1);
 		allowCountdown = true;

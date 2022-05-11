@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That was so much fun!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "thinking3",
+			"text": "It was, but I need to work now."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "hehe",
+			"text": "He's right, let's go, Lexi."
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Okay, thanks for the speaker!"
+		},
+		{
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "No problem, see ya!"
+		}
+	]
+}

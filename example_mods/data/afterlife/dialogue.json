@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See? I told you it was fun!"
+		},
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about one more, with the both of us?"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's fine by me!"
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "hehe",
+			"text": "I'm sorry, but..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After this, I think you should go..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't think Lexi's parents would like the fact that there are ghosts in their home."
+		},
+		{
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, no, that's fine!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As long as we can still talk to each other?"
+		},
+		{
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "New friends???"
+		},
+		{
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "New friends!!!"
+		},
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll figure that out after, let's start!"
+		}
+	]
+}

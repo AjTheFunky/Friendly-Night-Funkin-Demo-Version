@@ -1,5 +1,4 @@
 function onCreatePost()
-    if dadName == 'ghostbros' then
         makeAnimatedLuaSprite('Hunter', 'characters/HesDead', -50, 70);
         addAnimationByIndices('Hunter','danceLeft','hunteridle', '0, 1, 2, 3, 4, 5, 6, 7, 8, 9', 24)
         addAnimationByIndices('Hunter','danceRight','hunteridle', '10, 11, 12, 13, 14, 15, 16, 17, 18, 19', 24)
@@ -7,6 +6,7 @@ function onCreatePost()
         addAnimationByPrefix('Hunter','singLEFT','hunterleft',24,false)
         addAnimationByPrefix('Hunter','singRIGHT','hunterright',24,false)
         addAnimationByPrefix('Hunter','singUP','hunterup',24,false)
+    if dadName == 'ghostbros' then
         addLuaSprite('Hunter', true);
         setProperty('Hunter.x',getProperty('dad.x')-250);
         setProperty('Hunter.y',getProperty('dad.y')+70);

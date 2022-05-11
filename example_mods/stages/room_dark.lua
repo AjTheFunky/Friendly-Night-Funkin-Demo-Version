@@ -24,7 +24,7 @@ local lightningOffset = 8
 function onBeatHit()
         boom = getRandomInt(1,20)
         --debugPrint(boom)
-	if boom == 20 and songName ~= 'Grape-Boy' then
+	if boom == 20 and songName ~= 'Grape-Boy' and songName ~= 'week2bugfix' then
 		--triggerEvent('Lightning',0.5,0.5);
         setProperty('flash.alpha', 0.5);
 	soundName = string.format('thunder_%i', getRandomInt(1, 2));

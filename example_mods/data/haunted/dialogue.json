@@ -9,12 +9,12 @@
 			"text": "Oh jeez, it's really pouring out there, huh?"
 		},
 		{
-			"sound": "",
+			"sound": "aokitext",
 			"speed": 0.05,
 			"portrait": "aoki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hope it clears up before I gotta go."
+			"text": "Hope it clears up before your parents get here."
 		},
 		{
 			"sound": "aidentext",
@@ -46,7 +46,7 @@
 			"portrait": "aiden",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Sorry about that, my brother wandered off to here."
+			"text": "Sorry about that, my brother wandered off here."
 		},
 		{
 			"sound": "huntertext",
@@ -86,7 +86,15 @@
 			"portrait": "aoki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "What do ghosts even do?"
+			"text": "A-are you here to haunt us?"
+		},
+                {
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What? No."
 		},
 		{
 			"sound": "huntertext",

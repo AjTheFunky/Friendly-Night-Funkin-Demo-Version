@@ -2,14 +2,13 @@ Friendly Night Funkin Team
 AjTheFunky::aj::Director/Animator/Artist/Composer/Programmer/Charter/Aiden VA::https://www.youtube.com/channel/UCDXU_O0d0gWTB1OlUFbwvtA::0xFF3D3E62
 Scyrulean::scy::Co-Director/Artist/Animator::https://www.youtube.com/channel/UCgglgneghkAmWlygHxYoLRA::0xFF14151B
 Stankfield::stank::Design Help::https://twitter.com/stankfield::0xFFD83C3C
-Lillie::lillie::Background Artist/Scratch VA (Speaking)/Icon Artist::https://www.youtube.com/channel/UCwQ5c8eKQ3puwd-4p1bw9XA::0xFFFFA7B9
+Lillie::lillie::Background Artist/Icon Artist::https://www.youtube.com/channel/UCwQ5c8eKQ3puwd-4p1bw9XA::0xFFFFA7B9
 Tsuwuki::tsuwuki::Artist::https://www.youtube.com/channel/UCwffLANV1LjC-k-Anp8-nOw::0xFFD51A55
 Breberry::berry::Lexi VA (Speaking)::https://www.youtube.com/channel/UC7lcwaJcevyUao31gmxqb4g::0xFFFF406D
 Sonzai::sonzai::Aoki VA (Speaking)::https://twitter.com/sonzai_buredo::0xFF9965C7
-O'Hare::arseny::Axel VA(Speaking)/Other guy::https://twitter.com/automatedEnter1::0xFFA5D5A7
+O'Hare::hare::Axel VA(Speaking)/Other guy::https://twitter.com/R4bbitops::0xFFA5D5A7
 Bubba::bubba::Alfonso VA::https://www.youtube.com/c/bubbabrine11::0xFF61536A
 Tactical Cupcakes::tc::Dialogue Help/Cool gal::https://www.youtube.com/channel/UCdLz35-IUYnscQNV-6J5sOA::0xFFB70C6D
 Lua Script Credits
-BBPanzu::bbpanzu::Icon script/help with arrow skins/Debug Help::https://twitter.com/bbsub3::0xFF009933
-NotAn127::notan127::Loading Screen Script::https://www.youtube.com/channel/UClCnZLZxavnHD7aaIyzdZiA::0xFF458AD7
+BBPanzu::bbpanzu::Help with arrow skins/Debug Help::https://twitter.com/bbsub3::0xFF009933
 La Cueva De Ipe::la::Rating Rename Script::https://www.youtube.com/channel/UCGrq0qfNY-XhS_kmV2ON_4Q::0xFFFFFFFF

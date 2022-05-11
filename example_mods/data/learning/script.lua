@@ -98,6 +98,8 @@ function onSkipDialogue(count)
 end
 
 function onEndSong()
+    if isStoryMode then
         loadSong('learningendcutscene');
         return Function_Stop;
+    end
 end

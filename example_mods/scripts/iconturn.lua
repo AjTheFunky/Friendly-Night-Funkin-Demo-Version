@@ -8,7 +8,7 @@ end
 
 
 
-setProperty('iconP2.angle',-turnvalue)
+setProperty('iconP2.angle',turnvalue)
 setProperty('iconP1.angle',turnvalue)
 
 doTweenAngle('iconTween1','iconP1',0,crochet/1000,'circOut')

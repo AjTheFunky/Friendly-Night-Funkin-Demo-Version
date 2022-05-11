@@ -27,6 +27,13 @@ class MainMenuState extends MusicBeatState
 {
 	public static var psychEngineVersion:String = '0.5.2h'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
+	var showCharacter:FlxSprite = null;
+	var showCharacter2:FlxSprite = null;
+	var showCharacter3:FlxSprite = null;
+	var showCharacter4:FlxSprite = null;
+	var showCharacter5:FlxSprite = null;
+	var showCharacter6:FlxSprite = null;
+	var showCharacter7:FlxSprite = null;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	var menuItems2:FlxTypedGroup<FlxSprite>;
@@ -122,7 +129,7 @@ class MainMenuState extends MusicBeatState
 		for (i in 0...optionShit.length)
 		{
 			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
-			var menuItem:FlxSprite = new FlxSprite(100, 200 + (i * 100)  + offset);
+			var menuItem:FlxSprite = new FlxSprite(100, 50 + (i * 150)  + offset);
 			menuItem.scale.x = scale;
 			menuItem.scale.y = scale;
 			menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
@@ -140,25 +147,25 @@ class MainMenuState extends MusicBeatState
 			menuItem.updateHitbox();
 		}
 
-		for (i in 0...optionShit2.length)
-		{
-			var offset2:Float = 108 - (Math.max(optionShit2.length, 4) - 4) * 80;
-			var menuItem2:FlxSprite = new FlxSprite(800, 300 + (i + offset2));
-			menuItem2.scale.x = scale;
-			menuItem2.scale.y = scale;
-			menuItem2.frames = Paths.getSparrowAtlas('mainmenu2/menu_' + optionShit[i]);
-			menuItem2.animation.addByPrefix('idle', optionShit[i] + " white", 24);
-			menuItem2.animation.play('idle');
-			menuItem2.ID = i;
-			//menuItem2.screenCenter(X);
-			menuItems2.add(menuItem2);
-			var scr:Float = (optionShit2.length - 4) * 0.135;
-			if(optionShit2.length < 6) scr = 0;
-			menuItem2.scrollFactor.set(0, scr);
-			menuItem2.antialiasing = ClientPrefs.globalAntialiasing;
-			menuItem2.setGraphicSize(Std.int(menuItem2.width * 0.58));
-			menuItem2.updateHitbox();
-		}
+		//for (i in 0...optionShit2.length)
+		//{
+		//	var offset2:Float = 108 - (Math.max(optionShit2.length, 4) - 4) * 80;
+		//	var menuItem2:FlxSprite = new FlxSprite(800, 300 + (i + offset2));
+		//	menuItem2.scale.x = scale;
+		//	menuItem2.scale.y = scale;
+		//	menuItem2.frames = Paths.getSparrowAtlas('mainmenu2/menu_' + optionShit[i]);
+		//	menuItem2.animation.addByPrefix('idle', optionShit[i] + " white", 24);
+		//	menuItem2.animation.play('idle');
+		//	menuItem2.ID = i;
+		//	menuItem2.screenCenter(X);
+		//	menuItems2.add(menuItem2);
+		//	var scr:Float = (optionShit2.length - 4) * 0.135;
+		//	if(optionShit2.length < 6) scr = 0;
+		//	menuItem2.scrollFactor.set(0, scr);
+		//	menuItem2.antialiasing = ClientPrefs.globalAntialiasing;
+		//	menuItem2.setGraphicSize(Std.int(menuItem2.width * 0.58));
+		//	menuItem2.updateHitbox();
+		//}
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
@@ -170,6 +177,91 @@ class MainMenuState extends MusicBeatState
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
+
+		// avoids lagspikes while scrolling through menus!
+		showCharacter = new FlxSprite(700, 200);
+		//showCharacter.screenCenter(X);
+		showCharacter.scrollFactor.set(0, 0);
+	    showCharacter.frames = Paths.getSparrowAtlas('mainmenu2/menu_story_mode');
+		showCharacter.animation.addByPrefix('idle', "story_mode white", 24);
+		showCharacter.animation.play('idle');
+		showCharacter.setGraphicSize(Std.int(showCharacter.width * 0.6));
+		showCharacter.updateHitbox();
+		showCharacter.visible = false;
+		showCharacter.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter);
+
+		showCharacter2 = new FlxSprite(900, 300);
+		//showCharacter2.screenCenter(X);
+		showCharacter2.scrollFactor.set(0, 0);
+	    showCharacter2.frames = Paths.getSparrowAtlas('mainmenu2/menu_freeplay');
+		showCharacter2.animation.addByPrefix('idle', "freeplay white", 24);
+		showCharacter2.animation.play('idle');
+		showCharacter2.setGraphicSize(Std.int(showCharacter2.width * 0.6));
+		showCharacter2.updateHitbox();
+		showCharacter2.visible = false;
+		showCharacter2.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter2);
+
+		showCharacter3 = new FlxSprite(625, 150);
+		//showCharacter3.screenCenter(X);
+		showCharacter3.scrollFactor.set(0, 0);
+	    showCharacter3.frames = Paths.getSparrowAtlas('mainmenu2/menu_mods');
+		showCharacter3.animation.addByPrefix('idle', "mods white", 24);
+		showCharacter3.animation.play('idle');
+		showCharacter3.setGraphicSize(Std.int(showCharacter3.width * 0.6));
+		showCharacter3.updateHitbox();
+		showCharacter3.visible = false;
+		showCharacter3.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter3);
+
+		showCharacter4 = new FlxSprite(650, 175);
+		//showCharacter4.screenCenter(X);
+		showCharacter4.scrollFactor.set(0, 0);
+	    showCharacter4.frames = Paths.getSparrowAtlas('mainmenu2/menu_awards');
+		showCharacter4.animation.addByPrefix('idle', "awards white", 24);
+		showCharacter4.animation.play('idle');
+		showCharacter4.setGraphicSize(Std.int(showCharacter4.width * 0.6));
+		showCharacter4.updateHitbox();
+		showCharacter4.visible = false;
+		showCharacter4.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter4);
+
+		showCharacter5 = new FlxSprite(800, 200);
+		//showCharacter5.screenCenter(X);
+		showCharacter5.scrollFactor.set(0, 0);
+	    showCharacter5.frames = Paths.getSparrowAtlas('mainmenu2/menu_credits');
+		showCharacter5.animation.addByPrefix('idle', "credits white", 24);
+		showCharacter5.animation.play('idle');
+		showCharacter5.setGraphicSize(Std.int(showCharacter5.width * 0.6));
+		showCharacter5.updateHitbox();
+		showCharacter5.visible = false;
+		showCharacter5.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter5);
+
+		showCharacter6 = new FlxSprite(800, 250);
+		//showCharacter6.screenCenter(X);
+		showCharacter6.scrollFactor.set(0, 0);
+	    showCharacter6.frames = Paths.getSparrowAtlas('mainmenu2/menu_donate');
+		showCharacter6.animation.addByPrefix('idle', "donate white", 24);
+		showCharacter6.animation.play('idle');
+		showCharacter6.setGraphicSize(Std.int(showCharacter6.width * 0.6));
+		showCharacter6.updateHitbox();
+		showCharacter6.visible = false;
+		showCharacter6.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter6);
+
+		showCharacter7 = new FlxSprite(600, 150);
+		//showCharacter7.screenCenter(X);
+		showCharacter7.scrollFactor.set(0, 0);
+	    showCharacter7.frames = Paths.getSparrowAtlas('mainmenu2/menu_options');
+		showCharacter7.animation.addByPrefix('idle', "options white", 24);
+		showCharacter7.animation.play('idle');
+		showCharacter7.setGraphicSize(Std.int(showCharacter7.width * 0.6));
+		showCharacter7.updateHitbox();
+		showCharacter7.visible = false;
+		showCharacter7.antialiasing = ClientPrefs.globalAntialiasing;
+		add(showCharacter7);
 
 		// NG.core.calls.event.logEvent('swag').send();
 
@@ -191,6 +283,13 @@ class MainMenuState extends MusicBeatState
 		super.create();
 	}
 
+	
+
+		public function new()
+	{
+		super();
+	}
+
 	#if ACHIEVEMENTS_ALLOWED
 	// Unlocks "Freaky on a Friday Night" achievement
 	function giveAchievement() {
@@ -204,6 +303,44 @@ class MainMenuState extends MusicBeatState
 
 	override function update(elapsed:Float)
 	{
+
+		//if(showCharacter != null) {
+		//		showCharacter.alpha = 0;
+		//	}
+		//if(showCharacter != null && showCharacter.animation.curAnim.finished) {
+		//	showCharacter.animation.play('idle');
+		//}
+		switch (optionShit[curSelected])    
+{            
+            case 'story_mode': 
+			        showCharacter7.visible = false;
+                    showCharacter.visible = true;
+					showCharacter2.visible = false;
+			case 'freeplay': 
+                    showCharacter.visible = false;
+					showCharacter2.visible = true;
+					showCharacter3.visible = false;
+			case 'mods': 
+                    showCharacter2.visible = false;
+					showCharacter3.visible = true;
+					showCharacter4.visible = false;
+			case 'awards': 
+                    showCharacter3.visible = false;
+					showCharacter4.visible = true;
+					showCharacter5.visible = false;
+			case 'credits': 
+                    showCharacter4.visible = false;
+					showCharacter5.visible = true;
+					showCharacter6.visible = false;
+			case 'donate': 
+                    showCharacter5.visible = false;
+					showCharacter6.visible = true;
+					showCharacter7.visible = false;
+			case 'options': 
+                    showCharacter6.visible = false;
+					showCharacter7.visible = true;
+					showCharacter.visible = false;
+}
 		if (FlxG.sound.music.volume < 0.8)
 		{
 			FlxG.sound.music.volume += 0.5 * FlxG.elapsed;
@@ -321,30 +458,6 @@ class MainMenuState extends MusicBeatState
 			if (spr.ID == curSelected)
 			{
 				spr.animation.play('selected');
-				menuItems2.forEach(function(spr2:FlxSprite)
-		{
-			spr2.animation.play('idle');
-			spr2.updateHitbox();
-
-			if (spr2.ID == curSelected)
-			{
-				spr2.animation.play('idle');
-				remove(spr2);
-				remove(spr2);
-				remove(spr2);
-				remove(spr2);
-				remove(spr2);
-				remove(spr2);
-				remove(spr2);
-				spr2.ID = spr.ID;
-				add(spr2);
-				var add:Float = 0;
-				if(menuItems.length > 4) {
-					add = menuItems.length * 8;
-				}
-				spr2.centerOffsets();
-			}
-		});
 				var add:Float = 0;
 				if(menuItems.length > 4) {
 					add = menuItems.length * 8;

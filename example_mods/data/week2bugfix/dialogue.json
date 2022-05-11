@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aiden, you gotta try this. It's really fun!"
+		},
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um, excuse me, but..."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What is there to do after you d..."
+		},
+		{
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After you become a ghost?"
+		},
+		{
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Being dead for 10 years leaves time for many adventures! Like that one time with the plumber!"
+		},
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* Don't remind me of that..."
+		},
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, fine..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll give it a try."
+		}
+		{
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I haven't done this in a while, so bear with me."
+		},
+	]
+}
