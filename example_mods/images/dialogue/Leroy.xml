@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leroy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Happy0000" x="0" y="0" width="285" height="435"/>
+	<SubTexture name="Happy0001" x="0" y="0" width="285" height="435"/>
+	<SubTexture name="Happy0002" x="295" y="0" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Happy0003" x="295" y="0" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Happy0004" x="583" y="0" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Happy0005" x="583" y="0" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="HappyIdle0000" x="862" y="0" width="269" height="430"/>
+	<SubTexture name="Talk0000" x="1141" y="0" width="285" height="435"/>
+	<SubTexture name="Talk0001" x="1141" y="0" width="285" height="435"/>
+	<SubTexture name="Talk0002" x="1436" y="0" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Talk0003" x="1436" y="0" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Talk0004" x="1724" y="0" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Talk0005" x="1724" y="0" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="TalkIdle0000" x="0" y="445" width="269" height="430"/>
+	<SubTexture name="Upset0000" x="279" y="445" width="285" height="435"/>
+	<SubTexture name="Upset0001" x="279" y="445" width="285" height="435"/>
+	<SubTexture name="Upset0002" x="574" y="445" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Upset0003" x="574" y="445" width="278" height="432" frameX="-4" frameY="-3" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Upset0004" x="862" y="445" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="Upset0005" x="862" y="445" width="269" height="430" frameX="-9" frameY="-5" frameWidth="285" frameHeight="435"/>
+	<SubTexture name="UpsetIdle0000" x="1141" y="445" width="269" height="430"/>
+</TextureAtlas>

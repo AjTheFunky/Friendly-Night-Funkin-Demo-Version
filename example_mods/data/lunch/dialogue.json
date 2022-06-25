@@ -1,0 +1,324 @@
+{
+	"dialogue": [
+		{
+			"expression": "sick",
+			"text": "*cough cough*",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "talk",
+			"text": "*buzzing*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone"
+		},
+		{
+			"expression": "sick",
+			"text": "H-hello?",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "talk",
+			"text": "...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone"
+		},
+		{
+			"expression": "sick",
+			"text": "N-no, I'm *cough* sick...",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "sick",
+			"text": "I can't babysit Lexi tonight, sorry...",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "talk",
+			"text": "....!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "phone"
+		},
+		{
+			"expression": "sick",
+			"text": "I will, goodbye...",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "phone",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "INCOMING CALL FROM: Mr. Robin",
+			"boxState": "normal",
+			"sound": "axeltext",
+			"speed": 0.05,
+			"portrait": "axel"
+		},
+		{
+			"expression": "depressed",
+			"text": "Hello?",
+			"boxState": "normal",
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch"
+		},
+		{
+			"expression": "phone",
+			"text": "Hey, I wanted to ask you something.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "depressed",
+			"text": "It's a video call, you don't need to put the phone to your ear.",
+			"boxState": "normal",
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch"
+		},
+		{
+			"expression": "phone",
+			"text": "Oh, okay.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "hmm",
+			"text": "Woah, you don't look so good, you okay?",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "depressed",
+			"text": "I'm going through something right now...",
+			"boxState": "normal",
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch"
+		},
+		{
+			"expression": "hmm",
+			"text": "I was gonna ask you to babysit Lexi today, but you look like you need some rest.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "depressed2",
+			"text": "Yeah, maybe I do...",
+			"boxState": "normal",
+			"sound": "scratchtext",
+			"speed": 0.05,
+			"portrait": "scratch"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll leave you to that.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "talk",
+			"text": "Hours later, after Lexi's dad finds a babysitter...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Ooh, this place seems good for taking photos!",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "upset",
+			"text": "Ay, Veronica. We've been at this for an hour, and I'm getting hungry.",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "happy",
+			"text": "But, adventure awaits! We're making memories here.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "upset",
+			"text": "Well my stomach wants to make memories with some food.",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "talk",
+			"text": "We're going to that restaurant over there.",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "talk",
+			"text": "Woah! There's karaoke here!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Veronica, can we sing something together?",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "hmm",
+			"text": "[[You want me to do what now?]]",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "huh",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Leroy pulls Veronica aside.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "happy",
+			"text": "(Just do it!)",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "what",
+			"text": "(Why?)",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "talk",
+			"text": "(Come on, it'll be fun, what happened to ''adventure awaits''?)",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "hmm",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "what",
+			"text": "(Fine...)",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "what",
+			"text": "([[But you owe me.]])",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "talk",
+			"text": "([[Yeah, whatever.]])",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "hmm",
+			"text": "Okay, I'll sing with you.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "hmm",
+			"text": "But I'll choose the song.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "happy",
+			"text": "Surprise me!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		}
+	]
+}

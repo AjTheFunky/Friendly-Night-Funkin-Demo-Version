@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aiden.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk0000" x="0" y="0" width="291" height="440"/>
+	<SubTexture name="Talk0001" x="0" y="0" width="291" height="440"/>
+	<SubTexture name="Talk0002" x="301" y="0" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0003" x="301" y="0" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0004" x="602" y="0" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0005" x="602" y="0" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0006" x="903" y="0" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0007" x="903" y="0" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0008" x="1204" y="0" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0009" x="1204" y="0" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0010" x="1505" y="0" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0011" x="1505" y="0" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0012" x="0" y="450" width="291" height="421" frameX="0" frameY="-19" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0013" x="0" y="450" width="291" height="421" frameX="0" frameY="-19" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0014" x="1505" y="0" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0015" x="1505" y="0" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0016" x="1204" y="0" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0017" x="1204" y="0" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0018" x="903" y="0" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0019" x="903" y="0" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0020" x="301" y="450" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0021" x="301" y="450" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0022" x="301" y="0" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk0023" x="301" y="0" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20000" x="602" y="450" width="291" height="440"/>
+	<SubTexture name="Talk20001" x="602" y="450" width="291" height="440"/>
+	<SubTexture name="Talk20002" x="903" y="450" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20003" x="903" y="450" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20004" x="1204" y="450" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20005" x="1204" y="450" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20006" x="1505" y="450" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20007" x="1505" y="450" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20008" x="0" y="900" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20009" x="0" y="900" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20010" x="301" y="900" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20011" x="301" y="900" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20012" x="602" y="900" width="291" height="421" frameX="0" frameY="-19" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20013" x="602" y="900" width="291" height="421" frameX="0" frameY="-19" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20014" x="301" y="900" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20015" x="301" y="900" width="291" height="424" frameX="0" frameY="-16" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20016" x="0" y="900" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20017" x="0" y="900" width="291" height="427" frameX="0" frameY="-13" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20018" x="1505" y="450" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20019" x="1505" y="450" width="291" height="430" frameX="0" frameY="-10" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20020" x="903" y="900" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20021" x="903" y="900" width="291" height="434" frameX="0" frameY="-6" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20022" x="903" y="450" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+	<SubTexture name="Talk20023" x="903" y="450" width="291" height="437" frameX="0" frameY="-3" frameWidth="291" frameHeight="440"/>
+</TextureAtlas>

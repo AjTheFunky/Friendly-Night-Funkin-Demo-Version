@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "hmm",
+			"text": "Huh? A crowd? I didn't even notice.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "happy",
+			"text": "Hmm... looks like they want an encore!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "hmm",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "talk",
+			"text": "You know what, why not?",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "happy",
+			"text": "Let's party!",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		}
+	]
+}

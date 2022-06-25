@@ -1,7 +1,7 @@
 {
 	"position": [
-		90,
-		20
+		130,
+		5
 	],
 	"dialogue_pos": "left",
 	"scale": 1.25,
@@ -9,8 +9,8 @@
 	"animations": [
 		{
 			"loop_offsets": [
-				0,
-				0
+				27,
+				5
 			],
 			"anim": "talk",
 			"idle_offsets": [
@@ -22,8 +22,8 @@
 		},
 		{
 			"loop_offsets": [
-				0,
-				0
+				27,
+				5
 			],
 			"anim": "happy",
 			"idle_offsets": [
@@ -34,17 +34,69 @@
 			"idle_name": "HappyIdle0"
 		},
 		{
-			"loop_name": "Hehe0",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "HeheIdle0",
 			"anim": "hehe",
 			"loop_offsets": [
+				27,
+				5
+			],
+			"idle_name": "HeheIdle0",
+			"loop_name": "Hehe0"
+		},
+		{
+			"loop_offsets": [
+				27,
+				5
+			],
+			"anim": "fear",
+			"idle_offsets": [
 				0,
 				0
-			]
+			],
+			"loop_name": "Fear0",
+			"idle_name": "FearIdle0"
+		},
+		{
+			"loop_offsets": [
+				27,
+				5
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sad0",
+			"idle_name": "SadIdle0"
+		},
+		{
+			"loop_offsets": [
+				22,
+				2
+			],
+			"anim": "sick",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Sick0",
+			"idle_name": "SickIdle0"
+		},
+		{
+			"loop_offsets": [
+				16,
+				2
+			],
+			"anim": "think",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Think0",
+			"idle_name": "ThinkIdle0"
 		}
 	]
 }

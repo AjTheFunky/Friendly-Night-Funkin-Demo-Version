@@ -2,8 +2,8 @@
 	"storyName": "Rhythmic Restaurant",
 	"hideFreeplay": false,
 	"weekBackground": "restaurant",
-	"weekBefore": "2grape",
-	"startUnlocked": true,
+	"weekBefore": "2ghosts",
+	"startUnlocked": false,
 	"difficulties": "hard",
 	"weekCharacters": [
 		"veronica",

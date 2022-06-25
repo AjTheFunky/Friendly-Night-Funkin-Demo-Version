@@ -19,7 +19,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
                 scaleObject('lexiroom', 1280/2950, 720/2000)
 	        addLuaSprite('lexiroom', true)
 		startDialogue('dialogue', '');
-                playMusic('tea-time', 0.5, true)   
+                playMusic('aokitheme', 0.5, true)   
 		playSound('voices/week0/lexil1', 1, 'lexil1') 
 	end
 end
@@ -30,11 +30,11 @@ function onNextDialogue(count)
 	if count == 1 then
 		stopSound('lexil1')
 	elseif count == 2 then 
-                musicFadeOut('tea-time', 0.01, 0)
+                musicFadeOut('aokitheme', 0.01, 0)
 		playMusic('aokiringtone', 0.3, true)
 	elseif count == 3 then
 		musicFadeOut('aokiringtone', 0.01, 0)
-                playMusic('tea-time', 0.5, true)
+                playMusic('aokitheme', 0.5, true)
 		playSound('voices/phone1', 1, 'phone1') 
 	elseif count == 4 then
 		stopSound('phone1')

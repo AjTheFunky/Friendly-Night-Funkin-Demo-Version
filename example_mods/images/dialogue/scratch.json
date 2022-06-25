@@ -1,89 +1,115 @@
 {
+	"dialogue_pos": "left",
 	"position": [
-		90,
+		110,
 		20
 	],
-	"dialogue_pos": "left",
 	"scale": 1.25,
-	"image": "Scratch",
 	"animations": [
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "talk",
-			"idle_offsets": [
-				0,
+			"loop_offsets": [
+				22,
 				0
 			],
-			"loop_name": "Talk0",
-			"idle_name": "TalkIdle0"
+			"idle_name": "TalkIdle0",
+			"loop_name": "Talk0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
 			],
 			"anim": "happy",
-			"idle_offsets": [
-				0,
+			"loop_offsets": [
+				21,
 				0
 			],
-			"loop_name": "Happy0",
-			"idle_name": "HappyIdle0"
+			"idle_name": "HappyIdle0",
+			"loop_name": "Happy0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-16,
 				84
 			],
 			"anim": "talk2",
-			"idle_offsets": [
-				-16,
+			"loop_offsets": [
+				1,
 				84
 			],
-			"loop_name": "Talk20",
-			"idle_name": "Talk2Idle0"
+			"idle_name": "Talk2Idle0",
+			"loop_name": "Talk20"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				22,
 				-8
 			],
 			"anim": "thinking",
-			"idle_offsets": [
-				22,
+			"loop_offsets": [
+				51,
 				-8
 			],
-			"loop_name": "Thinking0",
-			"idle_name": "ThinkingIdle0"
+			"idle_name": "ThinkingIdle0",
+			"loop_name": "Thinking0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				22,
 				-8
 			],
 			"anim": "thinking2",
-			"idle_offsets": [
-				22,
+			"loop_offsets": [
+				51,
 				-8
 			],
-			"loop_name": "Thinking20",
-			"idle_name": "Thinking2Idle0"
+			"idle_name": "Thinking2Idle0",
+			"loop_name": "Thinking20"
 		},
 		{
-			"loop_offsets": [
-				7,
-				90
+			"idle_offsets": [
+				-3,
+				80
 			],
 			"anim": "thinking3",
-			"idle_offsets": [
-				7,
-				90
+			"loop_offsets": [
+				27,
+				88
 			],
-			"loop_name": "Thinking30",
-			"idle_name": "Thinking3Idle0"
+			"idle_name": "Thinking3Idle0",
+			"loop_name": "Thinking30"
+		},
+		{
+			"loop_name": "Depressed0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DepressedIdle0",
+			"anim": "depressed",
+			"loop_offsets": [
+				8,
+				8
+			]
+		},
+		{
+			"loop_name": "Depressed20",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Depressed2Idle0",
+			"anim": "depressed2",
+			"loop_offsets": [
+				7,
+				7
+			]
 		}
-	]
+	],
+	"image": "Scratch"
 }

@@ -78,7 +78,7 @@
 			"portrait": "aoki",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "Woah, awesome!"
+			"text": "Woah, that's awesome!"
 		},
 		{
 			"sound": "scratchtext",
@@ -86,7 +86,7 @@
 			"portrait": "scratch",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "Thanks!"
+			"text": "I'm glad you like it!"
 		},
 		{
 			"sound": "lexitext",
@@ -110,7 +110,7 @@
 			"portrait": "scratch",
 			"boxState": "normal",
 			"expression": "thinking",
-			"text": "Sure, but only one... okay?"
+			"text": "Sure, but only for a little bit... okay?"
 		},
 		{
 			"sound": "lexitext",

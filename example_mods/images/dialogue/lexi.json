@@ -1,76 +1,89 @@
 {
-	"dialogue_pos": "right",
 	"position": [
 		-20,
 		70
 	],
+	"dialogue_pos": "right",
 	"scale": 1.25,
+	"image": "Lexi",
 	"animations": [
 		{
-			"loop_name": "Talk0",
-			"idle_offsets": [
-				0,
-				0
+			"loop_offsets": [
+				9,
+				3
 			],
-			"idle_name": "TalkIdle0",
 			"anim": "talk",
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
-			]
+			],
+			"loop_name": "Talk0",
+			"idle_name": "TalkIdle0"
 		},
 		{
-			"loop_name": "Huh0",
-			"idle_offsets": [
-				-15,
-				-2
+			"loop_offsets": [
+				-6,
+				1
 			],
-			"idle_name": "HuhIdle0",
 			"anim": "huh",
-			"loop_offsets": [
-				-15,
-				-2
-			]
+			"idle_offsets": [
+				-6,
+				1
+			],
+			"loop_name": "Huh0",
+			"idle_name": "HuhIdle0"
 		},
 		{
-			"loop_name": "Sad0",
-			"idle_offsets": [
-				0,
-				0
+			"loop_offsets": [
+				9,
+				2
 			],
-			"idle_name": "SadIdle0",
 			"anim": "sad",
-			"loop_offsets": [
-				0,
-				0
-			]
-		},
-		{
-			"loop_name": "Happy0",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "HappyIdle0",
+			"loop_name": "Sad0",
+			"idle_name": "SadIdle0"
+		},
+		{
+			"loop_offsets": [
+				9,
+				2
+			],
 			"anim": "happy",
-			"loop_offsets": [
+			"idle_offsets": [
 				0,
 				0
-			]
+			],
+			"loop_name": "Happy0",
+			"idle_name": "HappyIdle0"
 		},
 		{
-			"loop_name": "Excited0",
-			"idle_offsets": [
-				-11,
-				5
-			],
-			"idle_name": "Excited0",
-			"anim": "excited",
 			"loop_offsets": [
-				-11,
-				5
+				-7,
+				6
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-7,
+				6
+			],
+			"loop_name": "Excited0",
+			"idle_name": "Excited0"
+		},
+		{
+			"loop_name": "Plush0",
+			"idle_offsets": [
+				-14,
+				0
+			],
+			"idle_name": "PlushIdle0",
+			"anim": "plush",
+			"loop_offsets": [
+				-14,
+				3
 			]
 		}
-	],
-	"image": "Lexi"
+	]
 }

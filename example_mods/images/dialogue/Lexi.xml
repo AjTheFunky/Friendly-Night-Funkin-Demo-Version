@@ -22,26 +22,33 @@
 	<SubTexture name="Happy0003" x="315" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
 	<SubTexture name="Happy0004" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
 	<SubTexture name="Happy0005" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="HappyIdle0000" x="612" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Sad0000" x="908" y="381" width="305" height="367"/>
-	<SubTexture name="Sad0001" x="908" y="381" width="305" height="367"/>
-	<SubTexture name="Sad0002" x="1223" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Sad0003" x="1223" y="381" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Sad0004" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Sad0005" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="SadIdle0000" x="1520" y="381" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Talk0000" x="0" y="758" width="305" height="367"/>
-	<SubTexture name="Talk0001" x="0" y="758" width="305" height="367"/>
-	<SubTexture name="Talk0002" x="315" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Talk0003" x="315" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Talk0004" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Talk0005" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="TalkIdle0000" x="612" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
-	<SubTexture name="Huh0000" x="908" y="758" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="Huh0001" x="908" y="758" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="Huh0002" x="1205" y="758" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="Huh0003" x="1205" y="758" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="Huh0004" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="Huh0005" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
-	<SubTexture name="HuhIdle0000" x="1495" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="HappyIdle0000" x="908" y="381" width="286" height="364"/>
+	<SubTexture name="Huh0000" x="1204" y="381" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0001" x="1204" y="381" width="287" height="365" frameX="-3" frameY="0" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0002" x="1501" y="381" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0003" x="1501" y="381" width="280" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0004" x="0" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Huh0005" x="0" y="758" width="279" height="364" frameX="0" frameY="-1" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="HuhIdle0000" x="0" y="758" width="279" height="364" frameX="0" frameY="0" frameWidth="290" frameHeight="365"/>
+	<SubTexture name="Plush0000" x="289" y="758" width="274" height="367" frameX="-5" frameY="0" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Plush0001" x="289" y="758" width="274" height="367" frameX="-5" frameY="0" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Plush0002" x="573" y="758" width="271" height="365" frameX="-3" frameY="-2" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Plush0003" x="573" y="758" width="271" height="365" frameX="-3" frameY="-2" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Plush0004" x="854" y="758" width="270" height="364" frameX="0" frameY="-3" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Plush0005" x="854" y="758" width="270" height="364" frameX="0" frameY="-3" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="PlushIdle0000" x="854" y="758" width="270" height="364" frameX="0" frameY="0" frameWidth="279" frameHeight="367"/>
+	<SubTexture name="Sad0000" x="1134" y="758" width="305" height="367"/>
+	<SubTexture name="Sad0001" x="1134" y="758" width="305" height="367"/>
+	<SubTexture name="Sad0002" x="1449" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0003" x="1449" y="758" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0004" x="1746" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Sad0005" x="1746" y="758" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="SadIdle0000" x="0" y="1135" width="286" height="364"/>
+	<SubTexture name="Talk0000" x="296" y="1135" width="305" height="367"/>
+	<SubTexture name="Talk0001" x="296" y="1135" width="305" height="367"/>
+	<SubTexture name="Talk0002" x="611" y="1135" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0003" x="611" y="1135" width="287" height="364" frameX="-9" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0004" x="908" y="1135" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="Talk0005" x="908" y="1135" width="286" height="364" frameX="-10" frameY="-3" frameWidth="305" frameHeight="367"/>
+	<SubTexture name="TalkIdle0000" x="1204" y="1135" width="286" height="364"/>
 </TextureAtlas>

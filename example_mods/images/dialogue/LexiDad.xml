@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LexiDad.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hmm0000" x="0" y="0" width="366" height="434"/>
+	<SubTexture name="Hmm0001" x="0" y="0" width="366" height="434"/>
+	<SubTexture name="Hmm0002" x="376" y="0" width="339" height="429" frameX="-10" frameY="-5" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Hmm0003" x="376" y="0" width="339" height="429" frameX="-10" frameY="-5" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Hmm0004" x="725" y="0" width="312" height="423" frameX="-20" frameY="-11" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Hmm0005" x="725" y="0" width="312" height="423" frameX="-20" frameY="-11" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="HmmIdle0000" x="1047" y="0" width="312" height="423"/>
+	<SubTexture name="Phone0000" x="1369" y="0" width="382" height="414" frameX="-2" frameY="-4" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Phone0001" x="1369" y="0" width="382" height="414" frameX="-2" frameY="-4" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Phone0002" x="0" y="444" width="382" height="416" frameX="-1" frameY="-2" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Phone0003" x="0" y="444" width="382" height="416" frameX="-1" frameY="-2" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Phone0004" x="392" y="444" width="378" height="418" frameX="0" frameY="0" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Phone0005" x="392" y="444" width="378" height="418" frameX="0" frameY="0" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="PhoneIdle0000" x="392" y="444" width="378" height="418" frameX="0" frameY="0" frameWidth="384" frameHeight="418"/>
+	<SubTexture name="Talk0000" x="780" y="444" width="366" height="434"/>
+	<SubTexture name="Talk0001" x="780" y="444" width="366" height="434"/>
+	<SubTexture name="Talk0002" x="1156" y="444" width="339" height="429" frameX="-10" frameY="-5" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Talk0003" x="1156" y="444" width="339" height="429" frameX="-10" frameY="-5" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Talk0004" x="1505" y="444" width="312" height="423" frameX="-20" frameY="-11" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="Talk0005" x="1505" y="444" width="312" height="423" frameX="-20" frameY="-11" frameWidth="366" frameHeight="434"/>
+	<SubTexture name="TalkIdle0000" x="0" y="888" width="312" height="423"/>
+</TextureAtlas>

@@ -18,7 +18,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	        addLuaSprite('labc', true)
 		startDialogue('dialogue', '');
                 playMusic('scratchcutscene', 0.5, true)   
-		playSound('voices/week0/lexil8', 1, 'lexil8') 
+		playSound('voices/week1/songend/0', 1, '0') 
 	end
 end
 
@@ -26,21 +26,24 @@ end
 
 function onNextDialogue(count)
 	if count == 1 then
-		stopSound('lexil8')
-		playSound('voices/week0/aokil8', 1, 'aokil8') 	
+		stopSound('0')
+		playSound('voices/week1/songend/1', 1, '1') 
 	elseif count == 2 then 
-		stopSound('aokil8')
-		playSound('voices/week0/aokil9', 1, 'aokil9') 	
+		stopSound('1')
+		playSound('voices/week1/songend/2', 1, '2') 
 	elseif count == 3 then
-		stopSound('aokil9')
-		playSound('voices/week0/lexil9', 1, 'lexil9') 	
+		stopSound('2')
+		playSound('voices/week1/songend/3', 1, '3') 
+	elseif count == 4 then
+		stopSound('3')
+		playSound('voices/week1/songend/4', 1, '4')
 	end
 	
 	-- triggered when the next dialogue line starts, 'line' starts with 1
 end
 
 function onSkipDialogue(count)
-		stopSound('lexil9')
+		stopSound('4')
 end
 
 function onCreate()

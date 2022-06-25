@@ -17,6 +17,53 @@
 				]
 			],
 			[
+				44878.0487804878,
+				[
+					[
+						"Set GF Speed",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				44908.0487804878,
+				[
+					[
+						"Play Animation",
+						"danceLeft",
+						"GF"
+					],
+					[
+						"Play Animation",
+						"danceLeft",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"idle-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				45358.0487804878,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
 				113941.382113821,
 				[
 					[

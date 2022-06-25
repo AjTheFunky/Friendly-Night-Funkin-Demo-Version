@@ -1,148 +1,148 @@
 {
 	"dialogue": [
 		{
+			"expression": "think",
+			"text": "Oh jeez, it's really pouring out there, huh?",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Oh jeez, it's really pouring out there, huh?"
+			"portrait": "aoki"
 		},
 		{
+			"expression": "think",
+			"text": "Hope it clears up before your dad gets here.",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hope it clears up before your parents get here."
+			"portrait": "aoki"
 		},
 		{
+			"expression": "talk",
+			"text": "Come back here!",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "narrator",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Come back here!"
+			"portrait": "narrator"
 		},
 		{
+			"expression": "fear",
+			"text": "EEP!",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "EEP!"
+			"portrait": "aoki"
 		},
 		{
-			"sound": "lexitext",
-			"speed": 0.05,
-			"portrait": "lexi",
-			"boxState": "normal",
 			"expression": "huh",
-			"text": "Huh? What was that?"
-		},
-		{
-			"sound": "aidentext",
-			"speed": 0.05,
-			"portrait": "aiden",
+			"text": "Huh? What was that?",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Sorry about that, my brother wandered off here."
-		},
-		{
-			"sound": "huntertext",
-			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hi, I'm Hunter!"
-		},
-		{
-			"sound": "huntertext",
-			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "This is my brother, Aiden."
-		},
-		{
-			"sound": "aidentext",
-			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Sorry to bother you, we'll be on our way."
-		},
-		{
-			"sound": "aokitext",
-			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "H-hold on, ghosts exist? There's an afterlife!? I have so many questions!"
-		},
-		{
-			"sound": "aokitext",
-			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "A-are you here to haunt us?"
-		},
-                {
-			"sound": "huntertext",
-			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What? No."
-		},
-		{
-			"sound": "huntertext",
-			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "We've just been floating around with no real goal."
-		},
-		{
-			"sound": "aidentext",
-			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hunter, I believe we should go-"
-		},
-		{
 			"sound": "lexitext",
 			"speed": 0.05,
-			"portrait": "lexi",
-			"boxState": "normal",
-			"expression": "happy",
-			"text": "Wait, don't go yet! Can we hang out? Can we sing together?"
+			"portrait": "lexi"
 		},
 		{
-			"sound": "huntertext",
-			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "That sounds like fun!"
-		},
-		{
+			"text": "Sorry about that, my brother wandered off here.",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hunter..."
+			"portrait": "aiden"
 		},
 		{
+			"expression": "talk",
+			"text": "Hi, I'm Hunter!",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
+			"expression": "talk",
+			"text": "This is my brother, Aiden.",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
+			"expression": "talk2",
+			"text": "Sorry to bother you, we'll be on our way.",
+			"boxState": "normal",
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden"
+		},
+		{
+			"expression": "fear",
+			"text": "H-hold on, ghosts exist? There's an afterlife!? I have so many questions!",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
+			"portrait": "aoki"
+		},
+		{
+			"expression": "fear",
+			"text": "A-are you here to haunt us?",
 			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "huh",
+			"text": "What? No.",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
 			"expression": "talk",
-			"text": "*sigh* I'll get the speaker."
+			"text": "We've just been floating around with no real goal.",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
+			"expression": "talk",
+			"text": "Hunter, I believe we should go-",
+			"boxState": "normal",
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden"
+		},
+		{
+			"expression": "happy",
+			"text": "Wait, don't go yet! Can we hang out? Can we sing together?",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "That sounds like fun!",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
+			"expression": "talk2",
+			"text": "Hunter...",
+			"boxState": "normal",
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden"
+		},
+		{
+			"expression": "think",
+			"text": "*sigh* I'll get the speaker.",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
 		}
 	]
 }

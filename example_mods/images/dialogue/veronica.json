@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		40
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Talk0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "TalkIdle0",
+			"anim": "talk",
+			"loop_offsets": [
+				17,
+				3
+			]
+		},
+		{
+			"loop_name": "Hmm0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HmmIdle0",
+			"anim": "hmm",
+			"loop_offsets": [
+				17,
+				3
+			]
+		},
+		{
+			"loop_name": "Happy0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HappyIdle0",
+			"anim": "happy",
+			"loop_offsets": [
+				17,
+				3
+			]
+		},
+		{
+			"loop_name": "What0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "WhatIdle0",
+			"anim": "what",
+			"loop_offsets": [
+				17,
+				3
+			]
+		}
+	],
+	"image": "Veronica"
+}

@@ -4,7 +4,7 @@
 	"weekBackground": "lab",
 	"weekBefore": "0learning",
 	"difficulties": "hard",
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"weekCharacters": [
 		"scratch",
 		"lexi",

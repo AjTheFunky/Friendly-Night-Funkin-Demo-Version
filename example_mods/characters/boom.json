@@ -180,11 +180,28 @@
 				-2,
 				-17
 			],
-			"loop": true,
+			"loop": false,
 			"anim": "scared",
 			"fps": 24,
-			"name": "GF FEAR",
-			"indices": []
+			"name": "GF Dancing Beat",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
 		}
 	],
 	"no_antialiasing": false,

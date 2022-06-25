@@ -1,76 +1,76 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				-36,
+				55,
 				13
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-73,
-				-1
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-66,
+				-7
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				44,
-				17
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-3,
+				-4
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-31,
-				13
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				14,
+				14
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				44,
-				17
-			],
-			"anim": "hey",
 			"fps": 24,
-			"name": "Cheer",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"offsets": [
+				-3,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Babysitter",
 	"position": [
-		0,
+		-40,
 		40
 	],
 	"healthicon": "aoki",

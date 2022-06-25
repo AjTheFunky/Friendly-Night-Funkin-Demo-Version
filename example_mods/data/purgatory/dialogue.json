@@ -1,84 +1,84 @@
 {
 	"dialogue": [
 		{
+			"expression": "happy",
+			"text": "Aiden, you gotta try this. It's really fun!",
+			"boxState": "normal",
 			"sound": "huntertext",
 			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Aiden, you gotta try this. It's really fun!"
+			"portrait": "hunter"
 		},
 		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
+			"portrait": "aiden"
 		},
 		{
+			"expression": "sad",
+			"text": "Um, excuse me, but...",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Um, excuse me, but..."
+			"portrait": "aoki"
 		},
 		{
+			"expression": "sad",
+			"text": "What is there to do after you d...",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "What is there to do after you d..."
+			"portrait": "aoki"
 		},
 		{
+			"expression": "sad",
+			"text": "After you become a ghost?",
+			"boxState": "normal",
 			"sound": "aokitext",
 			"speed": 0.05,
-			"portrait": "aoki",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "After you become a ghost?"
+			"portrait": "aoki"
 		},
 		{
+			"expression": "happy",
+			"text": "Being dead for 10 years leaves time for many adventures! Like that one time with...",
+			"boxState": "normal",
 			"sound": "huntertext",
 			"speed": 0.05,
-			"portrait": "hunter",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Being dead for 10 years leaves time for many adventures! Like that one time with the plumber!"
+			"portrait": "hunter"
 		},
 		{
+			"expression": "talk",
+			"text": "No, don't even get me started on that plumber...",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "*sigh* Don't remind me of that..."
+			"portrait": "aiden"
 		},
 		{
+			"expression": "talk2",
+			"text": "*sigh* Okay, fine...",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Okay, fine..."
+			"portrait": "aiden"
 		},
 		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "I'll give it a try."
-		},
-		{
+			"text": "I'll give it a try.",
+			"boxState": "normal",
 			"sound": "aidentext",
 			"speed": 0.05,
-			"portrait": "aiden",
-			"boxState": "normal",
+			"portrait": "aiden"
+		},
+		{
 			"expression": "talk",
-			"text": "I haven't done this in a while, so bear with me."
+			"text": "I haven't done this in a while, so bear with me.",
+			"boxState": "normal",
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden"
 		}
 	]
 }

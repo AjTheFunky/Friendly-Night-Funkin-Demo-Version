@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "*grumble grumble*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Looks like it's time to order, let's see...",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "talk",
+			"text": "The three then ate lunch, and went on with their day.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Thanks for playing the demo of Friendly Night Funkin!",
+			"boxState": "normal",
+			"sound": "ajtext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "I hope you enjoyed it. :D",
+			"boxState": "normal",
+			"sound": "ajtext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "See you in the next update!",
+			"boxState": "normal",
+			"sound": "ajtext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		}
+	]
+}

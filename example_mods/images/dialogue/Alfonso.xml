@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alfonso.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Happy0000" x="0" y="0" width="215" height="364"/>
+	<SubTexture name="Happy0001" x="0" y="0" width="215" height="364"/>
+	<SubTexture name="Happy0002" x="225" y="0" width="201" height="362" frameX="-8" frameY="-2" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Happy0003" x="225" y="0" width="201" height="362" frameX="-8" frameY="-2" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Happy0004" x="436" y="0" width="185" height="360" frameX="-15" frameY="-4" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Happy0005" x="436" y="0" width="185" height="360" frameX="-15" frameY="-4" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="HappyIdle0000" x="436" y="0" width="185" height="360" frameX="0" frameY="0" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Talk0000" x="631" y="0" width="215" height="364"/>
+	<SubTexture name="Talk0001" x="631" y="0" width="215" height="364"/>
+	<SubTexture name="Talk0002" x="0" y="374" width="201" height="362" frameX="-8" frameY="-2" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Talk0003" x="0" y="374" width="201" height="362" frameX="-8" frameY="-2" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Talk0004" x="211" y="374" width="185" height="360" frameX="-15" frameY="-4" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="Talk0005" x="211" y="374" width="185" height="360" frameX="-15" frameY="-4" frameWidth="215" frameHeight="364"/>
+	<SubTexture name="TalkIdle0000" x="211" y="374" width="185" height="360" frameX="0" frameY="0" frameWidth="215" frameHeight="364"/>
+</TextureAtlas>

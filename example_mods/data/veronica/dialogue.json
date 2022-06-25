@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "I'm having a lot of fun!",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "happy",
+			"text": "Not to say I told you so, but...",
+			"boxState": "normal",
+			"sound": "leroytext",
+			"speed": 0.05,
+			"portrait": "leroy"
+		},
+		{
+			"expression": "what",
+			"text": "Don't even finish that sentence.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		},
+		{
+			"expression": "talk",
+			"text": "One more song and then we'll order, this is making me hungry.",
+			"boxState": "normal",
+			"sound": "veronicatext",
+			"speed": 0.05,
+			"portrait": "veronica"
+		}
+	]
+}

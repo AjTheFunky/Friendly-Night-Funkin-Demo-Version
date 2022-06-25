@@ -10,7 +10,7 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
+	"hiddenUntilUnlocked": true,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"difficulties": "hard",
@@ -28,5 +28,5 @@
 	],
 	"hideStoryMode": true,
 	"weekBefore": "2ghosts",
-	"startUnlocked": true
+	"startUnlocked": false
 }

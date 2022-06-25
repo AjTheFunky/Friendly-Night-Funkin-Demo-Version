@@ -1,14 +1,25 @@
 Friendly Night Funkin Team
 AjTheFunky::aj::Director/Animator/Artist/Composer/Programmer/Charter/Aiden VA::https://www.youtube.com/channel/UCDXU_O0d0gWTB1OlUFbwvtA::0xFF3D3E62
-Scyrulean::scy::Co-Director/Artist/Animator::https://www.youtube.com/channel/UCgglgneghkAmWlygHxYoLRA::0xFF14151B
-Stankfield::stank::Design Help::https://twitter.com/stankfield::0xFFD83C3C
+Scyrulean::scy::Co-Director/Artist/Animator/Alfonso VA(Speaking)::https://www.youtube.com/channel/UCgglgneghkAmWlygHxYoLRA::0xFF14151B
+Art Stuff
 Lillie::lillie::Background Artist/Icon Artist::https://www.youtube.com/channel/UCwQ5c8eKQ3puwd-4p1bw9XA::0xFFFFA7B9
-Tsuwuki::tsuwuki::Artist::https://www.youtube.com/channel/UCwffLANV1LjC-k-Anp8-nOw::0xFFD51A55
-Breberry::berry::Lexi VA (Speaking)::https://www.youtube.com/channel/UC7lcwaJcevyUao31gmxqb4g::0xFFFF406D
+Luna Crystal::luna::Menu Background::https://www.youtube.com/channel/UCmmS-cdtKT4lFo-ixmM-5iA::0xFFFFB8B8
+Stankfield::stank::Design Help::https://twitter.com/stankfield::0xFFD83C3C
+Voice Actors
+Breberry::berry::Lexi VA (Speaking)/Loading Screen 2::https://www.youtube.com/channel/UC7lcwaJcevyUao31gmxqb4g::0xFFFF406D
 Sonzai::sonzai::Aoki VA (Speaking)::https://twitter.com/sonzai_buredo::0xFF9965C7
-O'Hare::hare::Axel VA(Speaking)/Other guy::https://twitter.com/R4bbitops::0xFFA5D5A7
-Bubba::bubba::Alfonso VA::https://www.youtube.com/c/bubbabrine11::0xFF61536A
-Tactical Cupcakes::tc::Dialogue Help/Cool gal::https://www.youtube.com/channel/UCdLz35-IUYnscQNV-6J5sOA::0xFFB70C6D
-Lua Script Credits
+O'Hare::hare::Axel VA(Speaking)/Other guy::https://twitter.com/R4bbitops::0xFF9E3C0E
+Sam Thul::scratch::Scratch VA(Speaking)::https://www.samthul.com/::0xFFFC7272
+snuggo::hunter::Hunter VA(Speaking)::https://www.castingcall.club/snuggo::0xFF00FF21
+Bubba::bubba::Alfonso VA (Singing)::https://www.youtube.com/c/bubbabrine11::0xFF61536A
+Rexstrider::rex::Mr.Robin VA::https://www.twitch.tv/rexstrider::0xFFFF00D0
+Rinnie0126::veronica::Veronica VA(Speaking)::https://www.castingcall.club/rinnie0126::0xFFDD7DEE
+Lugama05::leroy::Leroy VA(Speaking)::https://www.youtube.com/channel/UCPGnwQw7rACpUM4YiaO4_Dw::0xFF7F0000
+Other Help
+TabiSkull::hitabbsily::Playtester::https://twitter.com/TabiSkulI::0xFF22D071
+Tactical Cupcakes::tc::Dialogue Help/Playtester::https://www.youtube.com/channel/UCdLz35-IUYnscQNV-6J5sOA::0xFFB70C6D
 BBPanzu::bbpanzu::Help with arrow skins/Debug Help::https://twitter.com/bbsub3::0xFF009933
 La Cueva De Ipe::la::Rating Rename Script::https://www.youtube.com/channel/UCGrq0qfNY-XhS_kmV2ON_4Q::0xFFFFFFFF
+Loading Screens
+TFarugo::far::Loading Screen 1::https://twitter.com/TFarugo?t=2rt_dBvs-BnJwhDM9_Ethw&s=09::0xFF630CBB
+Kaskudek::kas::Loading Screen 3::https://www.youtube.com/channel/UCpkRxfWt_zcGw5C0Hu17Vkg::0xFF000399

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow, you're a really great singer!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, Lexi, I met your friends downstairs.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "hmm",
+			"text": "They're very... transparent.",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "happy",
+			"text": "Dad, look! I was just singing with Alfons...",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "huh",
+			"text": "Huh, where did he go?",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Your plush? That's nice...",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "hmm",
+			"text": "I'm gonna go take a nap now...",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "lexidad"
+		},
+		{
+			"expression": "sad",
+			"text": "B-But...",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "sad",
+			"text": "Oh...",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		}
+	]
+}

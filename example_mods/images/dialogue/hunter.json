@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		40
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Huh",
+			"idle_offsets": [
+				-35,
+				-45
+			],
+			"idle_name": "Huh",
+			"anim": "huh",
+			"loop_offsets": [
+				-35,
+				-45
+			]
+		},
+		{
+			"loop_name": "Talk",
+			"idle_offsets": [
+				-35,
+				-45
+			],
+			"idle_name": "Talk",
+			"anim": "talk",
+			"loop_offsets": [
+				-35,
+				-45
+			]
+		}
+	],
+	"image": "Hunter"
+}

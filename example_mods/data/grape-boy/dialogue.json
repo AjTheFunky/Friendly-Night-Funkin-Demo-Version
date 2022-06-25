@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Haha, you two really know how to make some good music!",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "think",
+			"text": "I feel like I'm forgetting something, though...",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "talk",
+			"text": "Lexi, Aoki, I'm home!",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "fear",
+			"text": "Oh no.",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "huh",
+			"text": "Who was that?",
+			"boxState": "normal",
+			"sound": "huntertext",
+			"speed": 0.05,
+			"portrait": "hunter"
+		},
+		{
+			"expression": "talk",
+			"text": "He zooms downstairs to investigate.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Hunter, no!",
+			"boxState": "normal",
+			"sound": "aidentext",
+			"speed": 0.05,
+			"portrait": "aiden"
+		},
+		{
+			"expression": "talk",
+			"text": "Aiden follows Hunter.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh my god, what is that!?",
+			"boxState": "normal",
+			"sound": "dadtext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "fear",
+			"text": "Crap! Lexi, stay here, I'll... do something.",
+			"boxState": "normal",
+			"sound": "aokitext",
+			"speed": 0.05,
+			"portrait": "aoki"
+		},
+		{
+			"expression": "talk",
+			"text": "Aoki leaves the room.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "huh",
+			"text": "Huh...",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "plush",
+			"text": "Well, looks like it's just you and me, Alfonso.",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, that was wild.",
+			"boxState": "normal",
+			"sound": "alfonsotext",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "sad",
+			"text": "*gasp*",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? What's wrong?",
+			"boxState": "normal",
+			"sound": "alfonsotext",
+			"speed": 0.05,
+			"portrait": "alfonso"
+		},
+		{
+			"expression": "sad",
+			"text": "Alfonso, you're...",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "excited",
+			"text": "You're a real grape boy now!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you mean?",
+			"boxState": "normal",
+			"sound": "alfonsotext",
+			"speed": 0.05,
+			"portrait": "alfonso"
+		},
+		{
+			"expression": "talk",
+			"text": "I've always been real.",
+			"boxState": "normal",
+			"sound": "alfonsotext",
+			"speed": 0.05,
+			"portrait": "alfonso"
+		},
+		{
+			"expression": "happy",
+			"text": "Let's hang out together!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		},
+		{
+			"expression": "happy",
+			"text": "How about a song? I know how much you love those.",
+			"boxState": "normal",
+			"sound": "alfonsotext",
+			"speed": 0.05,
+			"portrait": "alfonso"
+		},
+		{
+			"expression": "happy",
+			"text": "You read my mind!",
+			"boxState": "normal",
+			"sound": "lexitext",
+			"speed": 0.05,
+			"portrait": "lexi"
+		}
+	]
+}

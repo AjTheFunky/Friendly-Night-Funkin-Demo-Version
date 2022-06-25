@@ -22,7 +22,7 @@
 			"portrait": "aoki",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You did a really good job on this! It works really well."
+			"text": "You did a good job on this! It works really well."
 		},
 		{
 			"sound": "scratchtext",
@@ -30,7 +30,7 @@
 			"portrait": "scratch",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "Thanks!"
+			"text": "Good to know it works!"
 		},
 		{
 			"sound": "lexitext",
@@ -62,7 +62,7 @@
 			"portrait": "scratch",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "That settles it, Axel, another one, please."
+			"text": "That settles it. Axel, another one, please."
 		}
 	]
 }

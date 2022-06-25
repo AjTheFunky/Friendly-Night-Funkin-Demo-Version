@@ -4448,11 +4448,11 @@ class PlayState extends MusicBeatState
 							var weekName:String = WeekData.getWeekFileName();
 							switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
 							{
-								case 'week1':
+								case '1scientist':
 									if(achievementName == 'week1_nomiss') unlock = true;
-								case 'week2':
+								case '2grape':
 									if(achievementName == 'week2_nomiss') unlock = true;
-								case 'week3':
+								case '3veronica':
 									if(achievementName == 'week3_nomiss') unlock = true;
 								case 'week4':
 									if(achievementName == 'week4_nomiss') unlock = true;
@@ -4465,7 +4465,7 @@ class PlayState extends MusicBeatState
 							}
 						}
 					case 'ur_bad':
-						if(ratingPercent < 0.2 && !practiceMode) {
+						if(ratingPercent < 0.2 && !practiceMode && Paths.formatToSongPath(SONG.song) != 'learningendcutscene' || Paths.formatToSongPath(SONG.song) != 'week1endcutscene' || Paths.formatToSongPath(SONG.song) != 'week2endcutscene' || Paths.formatToSongPath(SONG.song) != 'week3endcutscene') {
 							unlock = true;
 						}
 					case 'ur_good':
@@ -4481,11 +4481,11 @@ class PlayState extends MusicBeatState
 							unlock = true;
 						}
 					case 'hype':
-						if(!boyfriendIdled && !usedPractice) {
+						if(!boyfriendIdled && !usedPractice && Paths.formatToSongPath(SONG.song) != 'learningendcutscene' || Paths.formatToSongPath(SONG.song) != 'week1endcutscene' || Paths.formatToSongPath(SONG.song) != 'week2endcutscene' || Paths.formatToSongPath(SONG.song) != 'week3endcutscene') {
 							unlock = true;
 						}
 					case 'two_keys':
-						if(!usedPractice) {
+						if(!usedPractice && Paths.formatToSongPath(SONG.song) != 'learningendcutscene' || Paths.formatToSongPath(SONG.song) != 'week1endcutscene' || Paths.formatToSongPath(SONG.song) != 'week2endcutscene' || Paths.formatToSongPath(SONG.song) != 'week3endcutscene') {
 							var howManyPresses:Int = 0;
 							for (j in 0...keysPressed.length) {
 								if(keysPressed[j]) howManyPresses++;
@@ -4500,7 +4500,7 @@ class PlayState extends MusicBeatState
 							unlock = true;
 						}
 					case 'debugger':
-						if(Paths.formatToSongPath(SONG.song) == 'test' && !usedPractice) {
+						if(Paths.formatToSongPath(SONG.song) == 'tetris' && !usedPractice) {
 							unlock = true;
 						}
 				}

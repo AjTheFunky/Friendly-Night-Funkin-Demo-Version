@@ -2,46 +2,60 @@
 <TextureAtlas imagePath="Scratch.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Happy0000" x="0" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Happy0001" x="0" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Happy0002" x="313" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Happy0003" x="313" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Happy0004" x="618" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Happy0005" x="618" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="HappyIdle0000" x="618" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0000" x="915" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0001" x="915" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0002" x="1228" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0003" x="1228" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0004" x="1533" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="TalkIdle0000" x="1533" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk0005" x="1533" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
-	<SubTexture name="Talk20000" x="0" y="466" width="285" height="551" frameX="0" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk20001" x="0" y="466" width="285" height="551" frameX="0" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk20002" x="295" y="466" width="277" height="551" frameX="-13" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk20003" x="295" y="466" width="277" height="551" frameX="-13" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk20004" x="582" y="466" width="275" height="551" frameX="-19" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk20005" x="582" y="466" width="275" height="551" frameX="-19" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Talk2Idle0000" x="582" y="466" width="275" height="551" frameX="-19" frameY="0" frameWidth="294" frameHeight="551"/>
-	<SubTexture name="Thinking0000" x="867" y="466" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking0001" x="867" y="466" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking0002" x="1218" y="466" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking0003" x="1218" y="466" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking0004" x="1561" y="466" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking0005" x="1561" y="466" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="ThinkingIdle0000" x="1561" y="466" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20000" x="0" y="1027" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20001" x="0" y="1027" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20002" x="351" y="1027" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20003" x="351" y="1027" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20004" x="694" y="1027" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking20005" x="694" y="1027" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking2Idle0000" x="694" y="1027" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
-	<SubTexture name="Thinking30000" x="1028" y="1027" width="325" height="558" frameX="0" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking30001" x="1028" y="1027" width="325" height="558" frameX="0" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking30002" x="1363" y="1027" width="315" height="558" frameX="-17" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking30003" x="1363" y="1027" width="315" height="558" frameX="-17" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking30004" x="1688" y="1027" width="316" height="558" frameX="-23" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking30005" x="1688" y="1027" width="316" height="558" frameX="-23" frameY="0" frameWidth="339" frameHeight="558"/>
-	<SubTexture name="Thinking3Idle0000" x="1688" y="1027" width="316" height="558" frameX="-23" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Depressed0000" x="0" y="0" width="292" height="464" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed0001" x="0" y="0" width="292" height="464" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed0002" x="302" y="0" width="290" height="460" frameX="-3" frameY="-4" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed0003" x="302" y="0" width="290" height="460" frameX="-3" frameY="-4" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed0004" x="602" y="0" width="287" height="456" frameX="-6" frameY="-8" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed0005" x="602" y="0" width="287" height="456" frameX="-6" frameY="-8" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20000" x="899" y="0" width="292" height="464" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20001" x="899" y="0" width="292" height="464" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20002" x="1201" y="0" width="290" height="460" frameX="-3" frameY="-4" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20003" x="1201" y="0" width="290" height="460" frameX="-3" frameY="-4" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20004" x="1501" y="0" width="287" height="456" frameX="-6" frameY="-8" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed20005" x="1501" y="0" width="287" height="456" frameX="-6" frameY="-8" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Depressed2Idle0000" x="1501" y="0" width="287" height="456" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="DepressedIdle0000" x="602" y="0" width="287" height="456" frameX="0" frameY="0" frameWidth="293" frameHeight="464"/>
+	<SubTexture name="Happy0000" x="1798" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Happy0001" x="1798" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Happy0002" x="2111" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Happy0003" x="2111" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Happy0004" x="2416" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Happy0005" x="2416" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="HappyIdle0000" x="2713" y="0" width="287" height="456"/>
+	<SubTexture name="Talk0000" x="3010" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk0001" x="3010" y="0" width="303" height="456" frameX="0" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk0002" x="3323" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk0003" x="3323" y="0" width="295" height="456" frameX="-13" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk0004" x="3628" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk0005" x="3628" y="0" width="287" height="456" frameX="-25" frameY="0" frameWidth="312" frameHeight="456"/>
+	<SubTexture name="Talk20000" x="0" y="474" width="285" height="556" frameX="0" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk20001" x="0" y="474" width="285" height="556" frameX="0" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk20002" x="295" y="474" width="277" height="556" frameX="-13" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk20003" x="295" y="474" width="277" height="556" frameX="-13" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk20004" x="582" y="474" width="275" height="556" frameX="-19" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk20005" x="582" y="474" width="275" height="556" frameX="-19" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="Talk2Idle0000" x="582" y="474" width="275" height="556" frameX="0" frameY="0" frameWidth="294" frameHeight="556"/>
+	<SubTexture name="TalkIdle0000" x="867" y="474" width="287" height="456"/>
+	<SubTexture name="Thinking0000" x="1164" y="474" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking0001" x="1164" y="474" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking0002" x="1515" y="474" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking0003" x="1515" y="474" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking0004" x="1858" y="474" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking0005" x="1858" y="474" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20000" x="2192" y="474" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20001" x="2192" y="474" width="341" height="445" frameX="0" frameY="-1" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20002" x="2543" y="474" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20003" x="2543" y="474" width="333" height="446" frameX="-15" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20004" x="2886" y="474" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking20005" x="2886" y="474" width="324" height="446" frameX="-31" frameY="0" frameWidth="355" frameHeight="446"/>
+	<SubTexture name="Thinking2Idle0000" x="3220" y="474" width="324" height="446"/>
+	<SubTexture name="Thinking30000" x="3554" y="474" width="325" height="558" frameX="0" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking30001" x="3554" y="474" width="325" height="558" frameX="0" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking30002" x="0" y="1042" width="315" height="558" frameX="-17" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking30003" x="0" y="1042" width="315" height="558" frameX="-17" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking30004" x="325" y="1042" width="316" height="558" frameX="-23" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking30005" x="325" y="1042" width="316" height="558" frameX="-23" frameY="0" frameWidth="339" frameHeight="558"/>
+	<SubTexture name="Thinking3Idle0000" x="651" y="1042" width="306" height="549"/>
+	<SubTexture name="ThinkingIdle0000" x="967" y="1042" width="324" height="446"/>
 </TextureAtlas>

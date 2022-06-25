@@ -3,7 +3,7 @@
 	"hideFreeplay": false,
 	"weekBackground": "roomdark",
 	"weekBefore": "1scientist",
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"difficulties": "hard",
 	"weekCharacters": [
 		"ghosts",

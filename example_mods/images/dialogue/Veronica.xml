@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Veronica.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Happy0000" x="0" y="0" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Happy0001" x="0" y="0" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Happy0002" x="333" y="0" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Happy0003" x="333" y="0" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Happy0004" x="654" y="0" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Happy0005" x="654" y="0" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="HappyIdle0000" x="973" y="0" width="309" height="409"/>
+	<SubTexture name="Hmm0000" x="1292" y="0" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Hmm0001" x="1292" y="0" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Hmm0002" x="1625" y="0" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Hmm0003" x="1625" y="0" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Hmm0004" x="0" y="421" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Hmm0005" x="0" y="421" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="HmmIdle0000" x="319" y="421" width="309" height="409"/>
+	<SubTexture name="Talk0000" x="638" y="421" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Talk0001" x="638" y="421" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Talk0002" x="971" y="421" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Talk0003" x="971" y="421" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Talk0004" x="1292" y="421" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="Talk0005" x="1292" y="421" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="TalkIdle0000" x="1611" y="421" width="309" height="409"/>
+	<SubTexture name="What0000" x="0" y="842" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="What0001" x="0" y="842" width="323" height="411" frameX="0" frameY="0" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="What0002" x="333" y="842" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="What0003" x="333" y="842" width="311" height="410" frameX="-10" frameY="-1" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="What0004" x="654" y="842" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="What0005" x="654" y="842" width="309" height="409" frameX="-19" frameY="-2" frameWidth="328" frameHeight="411"/>
+	<SubTexture name="WhatIdle0000" x="973" y="842" width="309" height="409"/>
+</TextureAtlas>

@@ -17,7 +17,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
                 scaleObject('lexiroom', 1280/2950, 720/2000)
 	        addLuaSprite('lexiroom', true)
 		startDialogue('dialogue', '');
-                playMusic('tea-time', 0.5, true)   
+                playMusic('aokitheme', 0.5, true)   
 		playSound('voices/week0/lexil8', 1, 'lexil8') 
 	end
 end
