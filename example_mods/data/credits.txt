@@ -14,7 +14,7 @@ snuggo::hunter::Hunter VA(Speaking)::https://www.castingcall.club/snuggo::0xFF00
 Bubba::bubba::Alfonso VA (Singing)::https://www.youtube.com/c/bubbabrine11::0xFF61536A
 Rexstrider::rex::Mr.Robin VA::https://www.twitch.tv/rexstrider::0xFFFF00D0
 Rinnie0126::veronica::Veronica VA(Speaking)::https://www.castingcall.club/rinnie0126::0xFFDD7DEE
-Lugama05::leroy::Leroy VA(Speaking)::https://www.youtube.com/channel/UCPGnwQw7rACpUM4YiaO4_Dw::0xFF7F0000
+Lugama05::leroy::Leroy VA::https://www.youtube.com/channel/UCPGnwQw7rACpUM4YiaO4_Dw::0xFF7F0000
 Other Help
 TabiSkull::hitabbsily::Playtester::https://twitter.com/TabiSkulI::0xFF22D071
 Tactical Cupcakes::tc::Dialogue Help/Playtester::https://www.youtube.com/channel/UCdLz35-IUYnscQNV-6J5sOA::0xFFB70C6D

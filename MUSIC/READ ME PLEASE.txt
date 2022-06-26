@@ -20,6 +20,11 @@ Dialogue Music:
 -Aoki's Theme (sick)
 -Veronica's Theme
 
+Others:
+-Hey! (Main menu)
+-Snack Time (Pause)
+-Tripped (Game Over)
+
 as you can see it's basically almost the entire demo
 there isn't really anything i can do except give out the stems for those songs
 and not so fun fact, soundtrap doesn't save beginning silence and just cuts straight to the audio for some reason
