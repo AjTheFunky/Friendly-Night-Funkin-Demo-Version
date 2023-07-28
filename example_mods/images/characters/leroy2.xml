@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leroy2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leroy20000" x="0" y="0" width="631" height="618" frameX="-32" frameY="-3" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20001" x="0" y="0" width="631" height="618" frameX="-32" frameY="-3" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20002" x="660" y="0" width="663" height="616" frameX="0" frameY="-3" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20003" x="660" y="0" width="663" height="616" frameX="0" frameY="-3" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20004" x="1352" y="0" width="638" height="621" frameX="-25" frameY="-1" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20005" x="2019" y="0" width="638" height="621" frameX="-25" frameY="-1" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20006" x="2686" y="0" width="625" height="623" frameX="-38" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20007" x="2686" y="0" width="625" height="623" frameX="-38" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20008" x="3340" y="0" width="618" height="623" frameX="-45" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20009" x="3340" y="0" width="618" height="623" frameX="-45" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20010" x="0" y="652" width="615" height="624" frameX="-48" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20011" x="644" y="652" width="615" height="624" frameX="-48" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20012" x="1288" y="652" width="614" height="624" frameX="-49" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20013" x="1931" y="652" width="613" height="624" frameX="-50" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20014" x="1931" y="652" width="613" height="624" frameX="-50" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20015" x="2573" y="652" width="607" height="611" frameX="-56" frameY="-10" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20016" x="2573" y="652" width="607" height="611" frameX="-56" frameY="-10" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20017" x="3209" y="652" width="605" height="611" frameX="-58" frameY="-9" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20018" x="3209" y="652" width="605" height="611" frameX="-58" frameY="-9" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20019" x="0" y="1305" width="605" height="617" frameX="-58" frameY="-5" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20020" x="634" y="1305" width="601" height="617" frameX="-62" frameY="-5" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20021" x="1264" y="1305" width="605" height="621" frameX="-58" frameY="-2" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20022" x="1264" y="1305" width="605" height="621" frameX="-58" frameY="-2" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20023" x="1898" y="1305" width="610" height="622" frameX="-53" frameY="-1" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20024" x="1898" y="1305" width="610" height="622" frameX="-53" frameY="-1" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20025" x="2537" y="1305" width="612" height="624" frameX="-51" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20026" x="3178" y="1305" width="612" height="624" frameX="-51" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20027" x="0" y="1958" width="613" height="624" frameX="-50" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20028" x="1931" y="652" width="613" height="624" frameX="-50" frameY="0" frameWidth="663" frameHeight="624"/>
+	<SubTexture name="leroy20029" x="1931" y="652" width="613" height="624" frameX="-50" frameY="0" frameWidth="663" frameHeight="624"/>
+</TextureAtlas>

@@ -19,9 +19,9 @@ function onCreate()
         addAnimationByPrefix('skye','clap','skyeclap',24,false)
         setScrollFactor('skye', 1, 1);
 
-        makeAnimatedLuaSprite('cg', 'stages/week3cg', 1850, 230);
-        addAnimationByPrefix('cg','idle','cg',24,true)
-        setScrollFactor('cg', 1, 1);
+        makeAnimatedLuaSprite('momi', 'stages/week3momi', 1850, 190);
+        addAnimationByPrefix('momi','idle','momi',24,true)
+        setScrollFactor('momi', 1, 1);
 
         eduardo = getRandomInt(1,100)
 
@@ -37,13 +37,13 @@ end
 	addLuaSprite('fg', false);
 if songName == 'Veronica' or songName == 'Party' then
 addLuaSprite('skye',false);
-addLuaSprite('cg',false);
+addLuaSprite('momi',false);
 end
 end
 
 function onBeatHit()
     objectPlayAnimation('crowd','idle',true)
     objectPlayAnimation('crowd2','idle',true)
-    objectPlayAnimation('cg','idle',true)
+    objectPlayAnimation('momi','idle',true)
     objectPlayAnimation('skye','idle',true)
 end

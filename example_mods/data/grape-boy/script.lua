@@ -2,7 +2,7 @@ local allowCountdown = false
 
 function onStartCountdown()
 	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
-	if not allowCountdown and not seenCutscene then
+	if not allowCountdown and isStoryMode not seenCutscene then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.1);
 		allowCountdown = true;
